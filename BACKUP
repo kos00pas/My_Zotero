@@ -77,46 +77,22 @@ General
 [INFO] Processing collection: Lazaros ...
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[DEBUG] Item data for item_id=183:
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol', 'title')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2020-04-02 2020-04-02', 'date')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'en', 'language')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'DOI.org (Crossref)', 'libraryCatalog')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'https://dl.acm.org/doi/10.1145/3374135.3385282', 'url')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2025-01-07 11:59:17', 'accessDate')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Tampa FL USA', 'place')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'ACM', 'publisher')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '978-1-4503-7105-6', 'ISBN')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '188-196', 'pages')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Proceedings of the 2020 ACM Southeast Conference', 'proceedingsTitle')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, "ACM SE '20: 2020 ACM Southeast Conference", 'conferenceName')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '10.1145/3374135.3385282', 'DOI')
+[NoFound] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT\An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf'
+		[NoPDFFound]  'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
-[WARNING] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
-[DEBUG] Item data for item_id=187:
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'A testbed for SCADA control system cybersecurity research and pedagogy', 'title')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '2011-10-12 2011-10-12', 'date')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'en', 'language')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'DOI.org (Crossref)', 'libraryCatalog')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'https://dl.acm.org/doi/10.1145/2179298.2179327', 'url')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '2025-01-07 13:00:57', 'accessDate')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'Oak Ridge Tennessee USA', 'place')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'ACM', 'publisher')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '978-1-4503-0945-5', 'ISBN')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '1-1', 'pages')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'Proceedings of the Seventh Annual Workshop on Cyber Security and Information Intelligence Research', 'proceedingsTitle')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, "CSIIRW '11: Cyber Security and Information Intelligence Research Workshop", 'conferenceName')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '10.1145/2179298.2179327', 'DOI')
+[NoFound] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NT52DNIU\A testbed for SCADA control system cybersecurity research and pedagogy.pdf'
+		[NoPDFFound]  'A testbed for SCADA control system cybersecurity research and pedagogy.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NT52DNIU
  - [Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf, Anomaly detection system based on analysis of packet header and payload histograms] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf]
  - [Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf, Payload modeling for network Intrusion Detection Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf]
  - [Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf, Data Mining for Anomalous Network Payload Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf]
  - [Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf, P-Gram: Positional N-Gram for the Clustering of Machine-Generated Messages] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf]
  - [Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf, Characterising Payload Entropy in Packet Flows] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf]
  - [Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf, Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf]
-[WARNING] No attachments found for item: anomaly detection for industrial control networks using hamming distance
-[DEBUG] Item data for item_id=207:
-  - (207, 3, '2025-01-08 12:45:43', '2025-01-09 10:23:58', '2025-01-10 12:34:27', 1, 'HY8QCT8E', 1017, 1, 'anomaly detection for industrial control networks using hamming distance', 'title')
+[NoFound] No attachments found for item: anomaly detection for industrial control networks using hamming distance
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HY8QCT8E\anomaly detection for industrial control networks using hamming distance.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HY8QCT8E\anomaly detection for industrial control networks using hamming distance.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\anomaly detection for industrial control networks using hamming distance.pdf
  - [Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf, An empirical evaluation of entropy-based traffic anomaly detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf]
  - [Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf, Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf]
  - [Negi et al. - 2020 - Intrusion Detection & Prevention in Programmable Logic Controllers A Model-driven Approach.pdf, Intrusion Detection & Prevention in Programmable Logic Controllers: A Model-driven Approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Negi et al. - 2020 - Intrusion Detection & Prevention in Programmable Logic Controllers A Model-driven Approach.pdf]
@@ -142,7 +118,7 @@ General
  - [Yu et al. - 2018 - Mining Anomaly Communication Patterns for Industrial Control Systems.pdf, Mining Anomaly Communication Patterns for Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yu et al. - 2018 - Mining Anomaly Communication Patterns for Industrial Control Systems.pdf]
  - [Stabili et al. - 2017 - Detecting attacks to internal vehicle networks through Hamming distance.pdf, Detecting attacks to internal vehicle networks through Hamming distance] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Stabili et al. - 2017 - Detecting attacks to internal vehicle networks through Hamming distance.pdf]
  - [Xu et al. - 2021 - Digital Twin-based Anomaly Detection in Cyber-physical Systems.pdf, Digital Twin-based Anomaly Detection in Cyber-physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Xu et al. - 2021 - Digital Twin-based Anomaly Detection in Cyber-physical Systems.pdf]
-[INFO] Total PDFs found in Lazaros: 34
+[INFO] Total PDFs found in Lazaros: 35
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ModbusTCP ...
@@ -151,21 +127,9 @@ General
 [INFO] Processing collection: ML_SVM ...
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[DEBUG] Item data for item_id=183:
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol', 'title')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2020-04-02 2020-04-02', 'date')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'en', 'language')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'DOI.org (Crossref)', 'libraryCatalog')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'https://dl.acm.org/doi/10.1145/3374135.3385282', 'url')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2025-01-07 11:59:17', 'accessDate')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Tampa FL USA', 'place')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'ACM', 'publisher')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '978-1-4503-7105-6', 'ISBN')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '188-196', 'pages')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Proceedings of the 2020 ACM Southeast Conference', 'proceedingsTitle')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, "ACM SE '20: 2020 ACM Southeast Conference", 'conferenceName')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '10.1145/3374135.3385282', 'DOI')
+[NoFound] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT\An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf'
+		[NoPDFFound]  'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
  - [Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf, Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf]
 [INFO] Total PDFs found in ML_SVM: 4
@@ -187,11 +151,11 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Hamming distance ...
-[WARNING] No attachments found for item: anomaly detection for industrial control networks using hamming distance
-[DEBUG] Item data for item_id=207:
-  - (207, 3, '2025-01-08 12:45:43', '2025-01-09 10:23:58', '2025-01-10 12:34:27', 1, 'HY8QCT8E', 1017, 1, 'anomaly detection for industrial control networks using hamming distance', 'title')
+[NoFound] No attachments found for item: anomaly detection for industrial control networks using hamming distance
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HY8QCT8E\anomaly detection for industrial control networks using hamming distance.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HY8QCT8E\anomaly detection for industrial control networks using hamming distance.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Hamming distance\anomaly detection for industrial control networks using hamming distance.pdf
  - [Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf, Detecting anomalous behavior of PLC using semi-supervised machine learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Hamming distance\Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf]
-[INFO] Total PDFs found in Hamming distance: 1
+[INFO] Total PDFs found in Hamming distance: 2
 
  ---------------------------------------------------------------
 [INFO] Processing collection: positional entropy ...
@@ -201,41 +165,17 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: dataset ...
-[WARNING] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
-[DEBUG] Item data for item_id=187:
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'A testbed for SCADA control system cybersecurity research and pedagogy', 'title')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '2011-10-12 2011-10-12', 'date')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'en', 'language')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'DOI.org (Crossref)', 'libraryCatalog')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'https://dl.acm.org/doi/10.1145/2179298.2179327', 'url')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '2025-01-07 13:00:57', 'accessDate')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'Oak Ridge Tennessee USA', 'place')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'ACM', 'publisher')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '978-1-4503-0945-5', 'ISBN')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '1-1', 'pages')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, 'Proceedings of the Seventh Annual Workshop on Cyber Security and Information Intelligence Research', 'proceedingsTitle')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, "CSIIRW '11: Cyber Security and Information Intelligence Research Workshop", 'conferenceName')
-  - (187, 11, '2025-01-07 13:00:57', '2025-01-07 13:23:43', '2025-01-09 14:17:59', 1, 'NT52DNIU', 747, 1, '10.1145/2179298.2179327', 'DOI')
+[NoFound] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NT52DNIU\A testbed for SCADA control system cybersecurity research and pedagogy.pdf'
+		[NoPDFFound]  'A testbed for SCADA control system cybersecurity research and pedagogy.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NT52DNIU
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ✅ ...
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[DEBUG] Item data for item_id=183:
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol', 'title')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2020-04-02 2020-04-02', 'date')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'en', 'language')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'DOI.org (Crossref)', 'libraryCatalog')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'https://dl.acm.org/doi/10.1145/3374135.3385282', 'url')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '2025-01-07 11:59:17', 'accessDate')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Tampa FL USA', 'place')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'ACM', 'publisher')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '978-1-4503-7105-6', 'ISBN')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '188-196', 'pages')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, 'Proceedings of the 2020 ACM Southeast Conference', 'proceedingsTitle')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, "ACM SE '20: 2020 ACM Southeast Conference", 'conferenceName')
-  - (183, 11, '2025-01-07 11:59:17', '2025-01-09 10:17:02', '2025-01-09 14:17:59', 1, '32WFS8WT', 747, 1, '10.1145/3374135.3385282', 'DOI')
+[NoFound] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT\An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf'
+		[NoPDFFound]  'An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\32WFS8WT
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
  - [Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf, Anomaly detection system based on analysis of packet header and payload histograms] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf]
  - [Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf, Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf]
@@ -316,15 +256,15 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Clean_Code ...
-[WARNING] No attachments found for item: The Clean Coder
-[DEBUG] Item data for item_id=711:
-  - (711, 3, '2025-01-11 13:05:55', '2025-01-11 13:05:55', '2025-01-11 13:05:55', 1, 'X5DCR55B', 1463, 1, 'The Clean Coder', 'title')
+[NoFound] No attachments found for item: The Clean Coder
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\X5DCR55B\The Clean Coder.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\X5DCR55B\The Clean Coder.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\The Clean Coder.pdf
  - [Martin - Clean Craftsmanship.pdf, Clean Craftsmanship] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Martin - Clean Craftsmanship.pdf]
  - [Kanat-Alexander - 2012 - Code simplicity the fundamentals of software.pdf, Code simplicity: the fundamentals of software] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Kanat-Alexander - 2012 - Code simplicity the fundamentals of software.pdf]
  - [Seemann - Code That Fits in Your Head.pdf, Code That Fits in Your Head] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Seemann - Code That Fits in Your Head.pdf]
  - [Freeman and Robson - Head First Design Patterns.pdf, Head First Design Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Freeman and Robson - Head First Design Patterns.pdf]
  - [Wallace - Pragmatic Programming A Complete Introduction to the Pragmatic Programmer.pdf, Pragmatic Programming: A Complete Introduction to the Pragmatic Programmer] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Wallace - Pragmatic Programming A Complete Introduction to the Pragmatic Programmer.pdf]
-[INFO] Total PDFs found in Clean_Code: 5
+[INFO] Total PDFs found in Clean_Code: 6
 
  ---------------------------------------------------------------
 [INFO] Processing collection: CPS ...
@@ -345,168 +285,168 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Cryptography ...
-[WARNING] No attachments found for item: The Manga Guide To Cryptography (2018)
-[DEBUG] Item data for item_id=678:
-  - (678, 3, '2025-01-11 13:03:15', '2025-01-11 13:03:15', '2025-01-11 13:03:15', 1, 'JJVB4R7I', 1431, 1, 'The Manga Guide To Cryptography (2018)', 'title')
+[NoFound] No attachments found for item: The Manga Guide To Cryptography (2018)
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JJVB4R7I\The Manga Guide To Cryptography (2018).pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JJVB4R7I\The Manga Guide To Cryptography (2018).pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\The Manga Guide To Cryptography (2018).pdf
  - [Overbeck and Sendrier - 2009 - Code-based cryptography.pdf, Code-based cryptography] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Overbeck and Sendrier - 2009 - Code-based cryptography.pdf]
  - [Ramakrishnan - 2019 - Cryptographic and information security approaches for images and videos.pdf, Cryptographic and information security: approaches for images and videos] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Ramakrishnan - 2019 - Cryptographic and information security approaches for images and videos.pdf]
  - [Smart - Cryptography An Introduction (3rd Edition).pdf, Cryptography: An Introduction (3rd Edition)] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Smart - Cryptography An Introduction (3rd Edition).pdf]
  - [Cobb - 2004 - Cryptography for dummies.pdf, Cryptography for dummies] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Cobb - 2004 - Cryptography for dummies.pdf]
  - [Namasudra and Deka - 2019 - Advances of DNA computing in cryptography.pdf, Advances of DNA computing in cryptography] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Namasudra and Deka - 2019 - Advances of DNA computing in cryptography.pdf]
-[INFO] Total PDFs found in Cryptography: 5
+[INFO] Total PDFs found in Cryptography: 6
 
  ---------------------------------------------------------------
 [INFO] Processing collection: DevOps&Docker&Kubernetes ...
-[WARNING] No attachments found for item: AnsibleWorksQuickStart
-[DEBUG] Item data for item_id=724:
-  - (724, 3, '2025-01-11 13:07:25', '2025-01-11 13:07:25', '2025-01-11 13:07:25', 1, 'EAQBQ7GA', 1477, 1, 'AnsibleWorksQuickStart', 'title')
-[WARNING] No attachments found for item: Application Lifecycle on AWS
-[DEBUG] Item data for item_id=726:
-  - (726, 3, '2025-01-11 13:07:29', '2025-01-11 13:07:29', '2025-01-11 13:07:29', 1, 'NH3KZQSU', 1479, 1, 'Application Lifecycle on AWS', 'title')
-[WARNING] No attachments found for item: aws-cli ebook
-[DEBUG] Item data for item_id=727:
-  - (727, 3, '2025-01-11 13:07:30', '2025-01-11 13:07:30', '2025-01-11 13:07:30', 1, 'JC7W79F4', 1479, 1, 'aws-cli ebook', 'title')
-[WARNING] No attachments found for item: Azure DevOps
-[DEBUG] Item data for item_id=728:
-  - (728, 3, '2025-01-11 13:07:31', '2025-01-11 13:07:31', '2025-01-11 13:07:31', 1, '7N7M8275', 1479, 1, 'Azure DevOps', 'title')
-[WARNING] No attachments found for item: Azure Fundamentals
-[DEBUG] Item data for item_id=729:
-  - (729, 3, '2025-01-11 13:07:32', '2025-01-11 13:07:32', '2025-01-11 13:07:32', 1, '4WIJ2N4Z', 1479, 1, 'Azure Fundamentals', 'title')
-[WARNING] No attachments found for item: CKAD preparation
-[DEBUG] Item data for item_id=734:
-  - (734, 3, '2025-01-11 13:07:44', '2025-01-11 13:07:44', '2025-01-11 13:07:44', 1, '5H34NDCA', 1485, 1, 'CKAD preparation', 'title')
-[WARNING] No attachments found for item: Container with docker and k8s
-[DEBUG] Item data for item_id=737:
-  - (737, 3, '2025-01-11 13:07:53', '2025-01-11 13:07:53', '2025-01-11 13:07:53', 1, '2ATLBV63', 1567, 1, 'Container with docker and k8s', 'title')
-[WARNING] No attachments found for item: DAY_ONE_AMAZON WEB SERVICES
-[DEBUG] Item data for item_id=744:
-  - (744, 3, '2025-01-11 13:08:13', '2025-01-11 13:08:13', '2025-01-11 13:08:13', 1, 'W73B9998', 1494, 1, 'DAY_ONE_AMAZON WEB SERVICES', 'title')
-[WARNING] No attachments found for item: Deploy on AWS-Gitlab
-[DEBUG] Item data for item_id=745:
-  - (745, 3, '2025-01-11 13:08:17', '2025-01-11 13:08:17', '2025-01-11 13:08:17', 1, 'R88GHAP9', 1496, 1, 'Deploy on AWS-Gitlab', 'title')
-[WARNING] No attachments found for item: Developing with Docker
-[DEBUG] Item data for item_id=747:
-  - (747, 3, '2025-01-11 13:08:22', '2025-01-11 13:08:22', '2025-01-11 13:08:22', 1, 'DDR9TFRB', 1498, 1, 'Developing with Docker', 'title')
-[WARNING] No attachments found for item: Devops Tools Guide
-[DEBUG] Item data for item_id=751:
-  - (751, 3, '2025-01-11 13:08:36', '2025-01-11 13:08:36', '2025-01-11 13:08:36', 1, 'UXZFKKBC', 1504, 1, 'Devops Tools Guide', 'title')
-[WARNING] No attachments found for item: Docker - Creating Structured Containers
-[DEBUG] Item data for item_id=754:
-  - (754, 3, '2025-01-11 13:08:46', '2025-01-11 13:08:46', '2025-01-11 13:08:46', 1, 'B8WEDH5N', 1506, 1, 'Docker - Creating Structured Containers', 'title')
-[WARNING] No attachments found for item: Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic
-[DEBUG] Item data for item_id=757:
-  - (757, 3, '2025-01-11 13:08:54', '2025-01-11 13:08:54', '2025-01-11 13:08:54', 1, 'VSE4W9EH', 1509, 1, 'Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic', 'title')
-[WARNING] No attachments found for item: Docker Deep Dive
-[DEBUG] Item data for item_id=762:
-  - (762, 3, '2025-01-11 13:09:13', '2025-01-11 13:09:13', '2025-01-11 13:09:13', 1, '75AXR398', 1515, 1, 'Docker Deep Dive', 'title')
-[WARNING] No attachments found for item: Docker QnA vijay
-[DEBUG] Item data for item_id=774:
-  - (774, 3, '2025-01-11 13:10:01', '2025-01-11 13:10:01', '2025-01-11 13:10:01', 1, 'LV7VQLNC', 1534, 1, 'Docker QnA vijay', 'title')
-[WARNING] No attachments found for item: Docker Tutorial - Anthony Baire
-[DEBUG] Item data for item_id=775:
-  - (775, 3, '2025-01-11 13:10:04', '2025-01-11 13:10:04', '2025-01-11 13:10:04', 1, 'XLKHB86L', 1535, 1, 'Docker Tutorial - Anthony Baire', 'title')
-[WARNING] No attachments found for item: Docker Tutorial - tutorialspoint.com
-[DEBUG] Item data for item_id=776:
-  - (776, 3, '2025-01-11 13:10:07', '2025-01-11 13:10:07', '2025-01-11 13:10:07', 1, 'GS8CKBMC', 1535, 1, 'Docker Tutorial - tutorialspoint.com', 'title')
-[WARNING] No attachments found for item: docker-doc-cn
-[DEBUG] Item data for item_id=779:
-  - (779, 3, '2025-01-11 13:10:19', '2025-01-11 13:10:19', '2025-01-11 13:10:19', 1, 'W6C6NX4B', 1541, 1, 'docker-doc-cn', 'title')
-[WARNING] No attachments found for item: Git Interview Questions
-[DEBUG] Item data for item_id=787:
-  - (787, 3, '2025-01-11 13:10:50', '2025-01-11 13:10:50', '2025-01-11 13:10:50', 1, 'YZG64PHD', 1554, 1, 'Git Interview Questions', 'title')
-[WARNING] No attachments found for item: GIT notes for professionals
-[DEBUG] Item data for item_id=788:
-  - (788, 3, '2025-01-11 13:10:52', '2025-01-11 13:10:52', '2025-01-11 13:10:52', 1, 'VJZF92WU', 1554, 1, 'GIT notes for professionals', 'title')
-[WARNING] No attachments found for item: GitHub.Git.Cheatsheet
-[DEBUG] Item data for item_id=789:
-  - (789, 3, '2025-01-11 13:10:55', '2025-01-11 13:10:55', '2025-01-11 13:10:55', 1, 'BAM76V2Y', 1556, 1, 'GitHub.Git.Cheatsheet', 'title')
-[WARNING] No attachments found for item: IaC_Terraform
-[DEBUG] Item data for item_id=792:
-  - (792, 3, '2025-01-11 13:11:03', '2025-01-11 13:11:03', '2025-01-11 13:11:03', 1, 'JXA7PFKK', 1558, 1, 'IaC_Terraform', 'title')
-[WARNING] No attachments found for item: Important DevOps Interview Questions
-[DEBUG] Item data for item_id=796:
-  - (796, 3, '2025-01-11 13:11:15', '2025-01-11 13:11:15', '2025-01-11 13:11:15', 1, 'WMENFB5K', 1562, 1, 'Important DevOps Interview Questions', 'title')
-[WARNING] No attachments found for item: Intro to Docker and Swarm - Vikram
-[DEBUG] Item data for item_id=798:
-  - (798, 3, '2025-01-11 13:11:23', '2025-01-11 13:11:23', '2025-01-11 13:11:23', 1, 'AL3QCKKS', 1565, 1, 'Intro to Docker and Swarm - Vikram', 'title')
-[WARNING] No attachments found for item: Kubernetes Cheat Sheet
-[DEBUG] Item data for item_id=802:
-  - (802, 3, '2025-01-11 13:11:35', '2025-01-11 13:11:35', '2025-01-11 13:11:35', 1, 'WWAQ42IJ', 1580, 1, 'Kubernetes Cheat Sheet', 'title')
-[WARNING] No attachments found for item: Kubernetes For Everyone
-[DEBUG] Item data for item_id=803:
-  - (803, 3, '2025-01-11 13:11:35', '2025-01-11 13:11:35', '2025-01-11 13:11:35', 1, 'XI8IJV7W', 1580, 1, 'Kubernetes For Everyone', 'title')
-[WARNING] No attachments found for item: Kubernetes in Action
-[DEBUG] Item data for item_id=804:
-  - (804, 3, '2025-01-11 13:11:36', '2025-01-11 13:11:36', '2025-01-11 13:11:36', 1, 'HBPDPU4X', 1580, 1, 'Kubernetes in Action', 'title')
-[WARNING] No attachments found for item: Kubernetes Up and Running, 3rd Edition
-[DEBUG] Item data for item_id=807:
-  - (807, 3, '2025-01-11 13:11:48', '2025-01-11 13:11:48', '2025-01-11 13:11:48', 1, 'VLMNU3S9', 1580, 1, 'Kubernetes Up and Running, 3rd Edition', 'title')
-[WARNING] No attachments found for item: Learning Docker
-[DEBUG] Item data for item_id=810:
-  - (810, 3, '2025-01-11 13:12:00', '2025-01-11 13:12:00', '2025-01-11 13:12:00', 1, '6QYWQWTZ', 1581, 1, 'Learning Docker', 'title')
-[WARNING] No attachments found for item: Learning Groovy
-[DEBUG] Item data for item_id=811:
-  - (811, 3, '2025-01-11 13:12:04', '2025-01-11 13:12:04', '2025-01-11 13:12:04', 1, '8XSUAARF', 1581, 1, 'Learning Groovy', 'title')
-[WARNING] No attachments found for item: LICENSE
-[DEBUG] Item data for item_id=815:
-  - (815, 3, '2025-01-11 13:12:18', '2025-01-11 13:12:18', '2025-01-11 13:12:18', 1, '5XYHAZFW', 1589, 1, 'LICENSE', 'title')
-[WARNING] No attachments found for item: load balancing in th cloud
-[DEBUG] Item data for item_id=817:
-  - (817, 3, '2025-01-11 13:12:22', '2025-01-11 13:12:22', '2025-01-11 13:12:22', 1, '9ZVXNT6R', 1591, 1, 'load balancing in th cloud', 'title')
-[WARNING] No attachments found for item: Native Docker Clustering with Swarm
-[DEBUG] Item data for item_id=827:
-  - (827, 3, '2025-01-11 13:12:52', '2025-01-11 13:12:52', '2025-01-11 13:12:52', 1, 'U9N5386Q', 1602, 1, 'Native Docker Clustering with Swarm', 'title')
-[WARNING] No attachments found for item: Pro Bash Programming
-[DEBUG] Item data for item_id=838:
-  - (838, 3, '2025-01-11 13:13:36', '2025-01-11 13:13:36', '2025-01-11 13:13:36', 1, 'WKEQJSV9', 1618, 1, 'Pro Bash Programming', 'title')
-[WARNING] No attachments found for item: Pro Docker
-[DEBUG] Item data for item_id=839:
-  - (839, 3, '2025-01-11 13:13:40', '2025-01-11 13:13:40', '2025-01-11 13:13:40', 1, '7UR2QV2F', 1621, 1, 'Pro Docker', 'title')
-[WARNING] No attachments found for item: Pro_Docker
-[DEBUG] Item data for item_id=840:
-  - (840, 3, '2025-01-11 13:13:44', '2025-01-11 13:13:44', '2025-01-11 13:13:44', 1, 'UK7M45EC', 1622, 1, 'Pro_Docker', 'title')
-[WARNING] No attachments found for item: Python for cloud
-[DEBUG] Item data for item_id=842:
-  - (842, 3, '2025-01-11 13:13:51', '2025-01-11 13:13:51', '2025-01-11 13:13:51', 1, 'YFI9EW4G', 1624, 1, 'Python for cloud', 'title')
-[WARNING] No attachments found for item: python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697
-[DEBUG] Item data for item_id=843:
-  - (843, 3, '2025-01-11 13:13:52', '2025-01-11 13:13:52', '2025-01-11 13:13:52', 1, 'ADYIASG3', 1624, 1, 'python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697', 'title')
-[WARNING] No attachments found for item: PythonNotesForProfessionals
-[DEBUG] Item data for item_id=844:
-  - (844, 3, '2025-01-11 13:13:55', '2025-01-11 13:13:55', '2025-01-11 13:13:55', 1, 'ZXJ4GXLQ', 1626, 1, 'PythonNotesForProfessionals', 'title')
-[WARNING] No attachments found for item: Security Practices EKS
-[DEBUG] Item data for item_id=847:
-  - (847, 3, '2025-01-11 13:14:13', '2025-01-11 13:14:13', '2025-01-11 13:14:13', 1, '2THCWAEJ', 1630, 1, 'Security Practices EKS', 'title')
-[WARNING] No attachments found for item: State of DevOps 2021
-[DEBUG] Item data for item_id=850:
-  - (850, 3, '2025-01-11 13:14:22', '2025-01-11 13:14:22', '2025-01-11 13:14:22', 1, 'QZIIHUUW', 1633, 1, 'State of DevOps 2021', 'title')
-[WARNING] No attachments found for item: terraform-cheatsheet-1
-[DEBUG] Item data for item_id=852:
-  - (852, 3, '2025-01-11 13:14:27', '2025-01-11 13:14:27', '2025-01-11 13:14:27', 1, 'H9TLSAJC', 1633, 1, 'terraform-cheatsheet-1', 'title')
-[WARNING] No attachments found for item: The Docker Book - 2018
-[DEBUG] Item data for item_id=855:
-  - (855, 3, '2025-01-11 13:14:35', '2025-01-11 13:14:35', '2025-01-11 13:14:35', 1, 'WRM5ZGDC', 1637, 1, 'The Docker Book - 2018', 'title')
-[WARNING] No attachments found for item: The Docker Book - James Turnbull - v17.03.0
-[DEBUG] Item data for item_id=856:
-  - (856, 3, '2025-01-11 13:14:39', '2025-01-11 13:14:39', '2025-01-11 13:14:39', 1, 'J2JJGFDJ', 1639, 1, 'The Docker Book - James Turnbull - v17.03.0', 'title')
-[WARNING] No attachments found for item: the-definitive-kubectl-cheatsheet
-[DEBUG] Item data for item_id=858:
-  - (858, 3, '2025-01-11 13:14:47', '2025-01-11 13:14:47', '2025-01-11 13:14:47', 1, 'FJ54XUC4', 1643, 1, 'the-definitive-kubectl-cheatsheet', 'title')
-[WARNING] No attachments found for item: Top 200 questions DevOps
-[DEBUG] Item data for item_id=860:
-  - (860, 3, '2025-01-11 13:14:53', '2025-01-11 13:14:53', '2025-01-11 13:14:53', 1, '79MVIUNY', 1646, 1, 'Top 200 questions DevOps', 'title')
-[WARNING] No attachments found for item: Using_Docker
-[DEBUG] Item data for item_id=861:
-  - (861, 3, '2025-01-11 13:14:57', '2025-01-11 13:14:57', '2025-01-11 13:14:57', 1, 'ILG796J7', 1646, 1, 'Using_Docker', 'title')
-[WARNING] No attachments found for item: wavestone devops
-[DEBUG] Item data for item_id=862:
-  - (862, 3, '2025-01-11 13:15:01', '2025-01-11 13:15:01', '2025-01-11 13:15:01', 1, '8UHQVK6N', 1648, 1, 'wavestone devops', 'title')
-[WARNING] No attachments found for item: 1622257225661
-[DEBUG] Item data for item_id=865:
-  - (865, 3, '2025-01-11 13:15:09', '2025-01-11 13:15:09', '2025-01-11 13:15:09', 1, 'BHVWENUM', 1651, 1, '1622257225661', 'title')
-[WARNING] No attachments found for item: Ansible Best Practices
-[DEBUG] Item data for item_id=867:
-  - (867, 3, '2025-01-11 13:15:15', '2025-01-11 13:15:15', '2025-01-11 13:15:15', 1, 'W4KDLUXV', 1653, 1, 'Ansible Best Practices', 'title')
+[NoFound] No attachments found for item: AnsibleWorksQuickStart
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\EAQBQ7GA\AnsibleWorksQuickStart.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\EAQBQ7GA\AnsibleWorksQuickStart.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\AnsibleWorksQuickStart.pdf
+[NoFound] No attachments found for item: Application Lifecycle on AWS
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NH3KZQSU\Application Lifecycle on AWS.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\NH3KZQSU\Application Lifecycle on AWS.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Application Lifecycle on AWS.pdf
+[NoFound] No attachments found for item: aws-cli ebook
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JC7W79F4\aws-cli ebook.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JC7W79F4\aws-cli ebook.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\aws-cli ebook.pdf
+[NoFound] No attachments found for item: Azure DevOps
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7N7M8275\Azure DevOps.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7N7M8275\Azure DevOps.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Azure DevOps.pdf
+[NoFound] No attachments found for item: Azure Fundamentals
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4WIJ2N4Z\Azure Fundamentals.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4WIJ2N4Z\Azure Fundamentals.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Azure Fundamentals.pdf
+[NoFound] No attachments found for item: CKAD preparation
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5H34NDCA\CKAD preparation.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5H34NDCA\CKAD preparation.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\CKAD preparation.pdf
+[NoFound] No attachments found for item: Container with docker and k8s
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\2ATLBV63\Container with docker and k8s.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\2ATLBV63\Container with docker and k8s.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Container with docker and k8s.pdf
+[NoFound] No attachments found for item: DAY_ONE_AMAZON WEB SERVICES
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W73B9998\DAY_ONE_AMAZON WEB SERVICES.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W73B9998\DAY_ONE_AMAZON WEB SERVICES.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\DAY_ONE_AMAZON WEB SERVICES.pdf
+[NoFound] No attachments found for item: Deploy on AWS-Gitlab
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\R88GHAP9\Deploy on AWS-Gitlab.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\R88GHAP9\Deploy on AWS-Gitlab.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Deploy on AWS-Gitlab.pdf
+[NoFound] No attachments found for item: Developing with Docker
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\DDR9TFRB\Developing with Docker.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\DDR9TFRB\Developing with Docker.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Developing with Docker.pdf
+[NoFound] No attachments found for item: Devops Tools Guide
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\UXZFKKBC\Devops Tools Guide.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\UXZFKKBC\Devops Tools Guide.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Devops Tools Guide.pdf
+[NoFound] No attachments found for item: Docker - Creating Structured Containers
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\B8WEDH5N\Docker - Creating Structured Containers.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\B8WEDH5N\Docker - Creating Structured Containers.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker - Creating Structured Containers.pdf
+[NoFound] No attachments found for item: Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VSE4W9EH\Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VSE4W9EH\Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic.pdf
+[NoFound] No attachments found for item: Docker Deep Dive
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\75AXR398\Docker Deep Dive.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\75AXR398\Docker Deep Dive.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker Deep Dive.pdf
+[NoFound] No attachments found for item: Docker QnA vijay
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LV7VQLNC\Docker QnA vijay.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LV7VQLNC\Docker QnA vijay.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker QnA vijay.pdf
+[NoFound] No attachments found for item: Docker Tutorial - Anthony Baire
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\XLKHB86L\Docker Tutorial - Anthony Baire.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\XLKHB86L\Docker Tutorial - Anthony Baire.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker Tutorial - Anthony Baire.pdf
+[NoFound] No attachments found for item: Docker Tutorial - tutorialspoint.com
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\GS8CKBMC\Docker Tutorial - tutorialspoint.com.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\GS8CKBMC\Docker Tutorial - tutorialspoint.com.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Docker Tutorial - tutorialspoint.com.pdf
+[NoFound] No attachments found for item: docker-doc-cn
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W6C6NX4B\docker-doc-cn.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W6C6NX4B\docker-doc-cn.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\docker-doc-cn.pdf
+[NoFound] No attachments found for item: Git Interview Questions
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\YZG64PHD\Git Interview Questions.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\YZG64PHD\Git Interview Questions.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Git Interview Questions.pdf
+[NoFound] No attachments found for item: GIT notes for professionals
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VJZF92WU\GIT notes for professionals.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VJZF92WU\GIT notes for professionals.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\GIT notes for professionals.pdf
+[NoFound] No attachments found for item: GitHub.Git.Cheatsheet
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\BAM76V2Y\GitHub.Git.Cheatsheet.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\BAM76V2Y\GitHub.Git.Cheatsheet.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\GitHub.Git.Cheatsheet.pdf
+[NoFound] No attachments found for item: IaC_Terraform
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JXA7PFKK\IaC_Terraform.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JXA7PFKK\IaC_Terraform.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\IaC_Terraform.pdf
+[NoFound] No attachments found for item: Important DevOps Interview Questions
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WMENFB5K\Important DevOps Interview Questions.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WMENFB5K\Important DevOps Interview Questions.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Important DevOps Interview Questions.pdf
+[NoFound] No attachments found for item: Intro to Docker and Swarm - Vikram
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\AL3QCKKS\Intro to Docker and Swarm - Vikram.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\AL3QCKKS\Intro to Docker and Swarm - Vikram.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Intro to Docker and Swarm - Vikram.pdf
+[NoFound] No attachments found for item: Kubernetes Cheat Sheet
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WWAQ42IJ\Kubernetes Cheat Sheet.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WWAQ42IJ\Kubernetes Cheat Sheet.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kubernetes Cheat Sheet.pdf
+[NoFound] No attachments found for item: Kubernetes For Everyone
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\XI8IJV7W\Kubernetes For Everyone.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\XI8IJV7W\Kubernetes For Everyone.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kubernetes For Everyone.pdf
+[NoFound] No attachments found for item: Kubernetes in Action
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HBPDPU4X\Kubernetes in Action.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HBPDPU4X\Kubernetes in Action.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kubernetes in Action.pdf
+[NoFound] No attachments found for item: Kubernetes Up and Running, 3rd Edition
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VLMNU3S9\Kubernetes Up and Running, 3rd Edition.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VLMNU3S9\Kubernetes Up and Running, 3rd Edition.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kubernetes Up and Running, 3rd Edition.pdf
+[NoFound] No attachments found for item: Learning Docker
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\6QYWQWTZ\Learning Docker.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\6QYWQWTZ\Learning Docker.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Learning Docker.pdf
+[NoFound] No attachments found for item: Learning Groovy
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\8XSUAARF\Learning Groovy.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\8XSUAARF\Learning Groovy.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Learning Groovy.pdf
+[NoFound] No attachments found for item: LICENSE
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5XYHAZFW\LICENSE.pdf'
+		[NoPDFFound]  'LICENSE.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5XYHAZFW
+[NoFound] No attachments found for item: load balancing in th cloud
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\9ZVXNT6R\load balancing in th cloud.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\9ZVXNT6R\load balancing in th cloud.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\load balancing in th cloud.pdf
+[NoFound] No attachments found for item: Native Docker Clustering with Swarm
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\U9N5386Q\Native Docker Clustering with Swarm.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\U9N5386Q\Native Docker Clustering with Swarm.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Native Docker Clustering with Swarm.pdf
+[NoFound] No attachments found for item: Pro Bash Programming
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WKEQJSV9\Pro Bash Programming.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WKEQJSV9\Pro Bash Programming.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Pro Bash Programming.pdf
+[NoFound] No attachments found for item: Pro Docker
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7UR2QV2F\Pro Docker.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7UR2QV2F\Pro Docker.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Pro Docker.pdf
+[NoFound] No attachments found for item: Pro_Docker
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\UK7M45EC\Pro_Docker.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\UK7M45EC\Pro_Docker.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Pro_Docker.pdf
+[NoFound] No attachments found for item: Python for cloud
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\YFI9EW4G\Python for cloud.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\YFI9EW4G\Python for cloud.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Python for cloud.pdf
+[NoFound] No attachments found for item: python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ADYIASG3\python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ADYIASG3\python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf
+[NoFound] No attachments found for item: PythonNotesForProfessionals
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ZXJ4GXLQ\PythonNotesForProfessionals.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ZXJ4GXLQ\PythonNotesForProfessionals.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\PythonNotesForProfessionals.pdf
+[NoFound] No attachments found for item: Security Practices EKS
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\2THCWAEJ\Security Practices EKS.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\2THCWAEJ\Security Practices EKS.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Security Practices EKS.pdf
+[NoFound] No attachments found for item: State of DevOps 2021
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\QZIIHUUW\State of DevOps 2021.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\QZIIHUUW\State of DevOps 2021.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\State of DevOps 2021.pdf
+[NoFound] No attachments found for item: terraform-cheatsheet-1
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\H9TLSAJC\terraform-cheatsheet-1.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\H9TLSAJC\terraform-cheatsheet-1.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\terraform-cheatsheet-1.pdf
+[NoFound] No attachments found for item: The Docker Book - 2018
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WRM5ZGDC\The Docker Book - 2018.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WRM5ZGDC\The Docker Book - 2018.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\The Docker Book - 2018.pdf
+[NoFound] No attachments found for item: The Docker Book - James Turnbull - v17.03.0
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\J2JJGFDJ\The Docker Book - James Turnbull - v17.03.0.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\J2JJGFDJ\The Docker Book - James Turnbull - v17.03.0.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\The Docker Book - James Turnbull - v17.03.0.pdf
+[NoFound] No attachments found for item: the-definitive-kubectl-cheatsheet
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\FJ54XUC4\the-definitive-kubectl-cheatsheet.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\FJ54XUC4\the-definitive-kubectl-cheatsheet.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\the-definitive-kubectl-cheatsheet.pdf
+[NoFound] No attachments found for item: Top 200 questions DevOps
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\79MVIUNY\Top 200 questions DevOps.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\79MVIUNY\Top 200 questions DevOps.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Top 200 questions DevOps.pdf
+[NoFound] No attachments found for item: Using_Docker
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ILG796J7\Using_Docker.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\ILG796J7\Using_Docker.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Using_Docker.pdf
+[NoFound] No attachments found for item: wavestone devops
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\8UHQVK6N\wavestone devops.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\8UHQVK6N\wavestone devops.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\wavestone devops.pdf
+[NoFound] No attachments found for item: 1622257225661
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\BHVWENUM\1622257225661.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\BHVWENUM\1622257225661.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\1622257225661.pdf
+[NoFound] No attachments found for item: Ansible Best Practices
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W4KDLUXV\Ansible Best Practices.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\W4KDLUXV\Ansible Best Practices.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Ansible Best Practices.pdf
  - [Hochstein - 2015 - Ansible up & running automating configuration management and deployment the easy way.pdf, Ansible: up & running: automating configuration management and deployment the easy way] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hochstein - 2015 - Ansible up & running automating configuration management and deployment the easy way.pdf]
  - [Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf, Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf]
  - [API-Driven DevOps.pdf, API-Driven DevOps] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\API-Driven DevOps.pdf]
@@ -561,11 +501,9 @@ General
  - [Jourdan and Pomès - 2017 - Infrastructure as code (IAC) cookbook over 90 practical, actionable recipes to automate, test and m.pdf, Infrastructure as code (IAC) cookbook: over 90 practical, actionable recipes to automate, test and manage your infrastructure quickly and effectively] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Jourdan and Pomès - 2017 - Infrastructure as code (IAC) cookbook over 90 practical, actionable recipes to automate, test and m.pdf]
  - [ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf, Email: Mohamed.ElEmam.Hussin@gmail.com] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf]
  - [ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf, Email: Mohamed.ElEmam.Hussin@gmail.com] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf]
-[WARNING] No attachments found for item: Email: Mohamed.ElEmam.Hussin@gmail.com
-[DEBUG] Item data for item_id=924:
-  - (924, 22, '2025-01-11 13:17:34', '2025-01-11 13:22:08', '2025-01-11 13:22:08', 1, '5553T59M', 1696, 1, 'Email: Mohamed.ElEmam.Hussin@gmail.com', 'title')
-  - (924, 22, '2025-01-11 13:17:34', '2025-01-11 13:22:08', '2025-01-11 13:22:08', 1, '5553T59M', 1696, 1, 'en', 'language')
-  - (924, 22, '2025-01-11 13:17:34', '2025-01-11 13:22:08', '2025-01-11 13:22:08', 1, '5553T59M', 1696, 1, 'Zotero', 'libraryCatalog')
+[NoFound] No attachments found for item: Email: Mohamed.ElEmam.Hussin@gmail.com
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5553T59M\Email: Mohamed.ElEmam.Hussin@gmail.com.pdf'
+		[NoPDFFound]  'Email: Mohamed.ElEmam.Hussin@gmail.com.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5553T59M
  - [Vohra - 2016 - Kubernetes Microservices with Docker.pdf, Kubernetes Microservices with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Vohra - 2016 - Kubernetes Microservices with Docker.pdf]
  - [Vohra - 2016 - Kubernetes Microservices with Docker.pdf, Kubernetes Microservices with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Vohra - 2016 - Kubernetes Microservices with Docker.pdf]
  - [Ibryam and Huß - Kubernetes Patterns.pdf, Kubernetes Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Ibryam and Huß - Kubernetes Patterns.pdf]
@@ -591,23 +529,12 @@ General
  - [Duncan and Osborne - 2018 - OpenShift in action.pdf, OpenShift in action] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Duncan and Osborne - 2018 - OpenShift in action.pdf]
  - [Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf, Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf]
  - [Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf, Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf]
-[WARNING] No attachments found for item: Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently
-[DEBUG] Item data for item_id=948:
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently', 'title')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, '2015-00-00 2015', 'date')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'en', 'language')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'Orchestrating Docker', 'shortTitle')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'K10plus ISBN', 'libraryCatalog')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'Birmingham', 'place')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'Packt Publ', 'publisher')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, '978-1-78398-478-7', 'ISBN')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, 'Community experience distilled', 'series')
-  - (948, 7, '2025-01-11 13:18:22', '2025-01-11 13:20:38', '2025-01-11 13:20:38', 1, 'TYERQP8Y', 1691, 1, '138', 'numPages')
-[WARNING] No attachments found for item: Kubernetes Patterns
-[DEBUG] Item data for item_id=949:
-  - (949, 22, '2025-01-11 13:18:25', '2025-01-11 13:20:50', '2025-01-11 13:20:50', 1, 'DYKEQIIJ', 1692, 1, 'Kubernetes Patterns', 'title')
-  - (949, 22, '2025-01-11 13:18:25', '2025-01-11 13:20:50', '2025-01-11 13:20:50', 1, 'DYKEQIIJ', 1692, 1, 'en', 'language')
-  - (949, 22, '2025-01-11 13:18:25', '2025-01-11 13:20:50', '2025-01-11 13:20:50', 1, 'DYKEQIIJ', 1692, 1, 'Zotero', 'libraryCatalog')
+[NoFound] No attachments found for item: Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TYERQP8Y\Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently.pdf'
+		[NoPDFFound]  'Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TYERQP8Y
+[NoFound] No attachments found for item: Kubernetes Patterns
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\DYKEQIIJ\Kubernetes Patterns.pdf'
+		[NoPDFFound]  'Kubernetes Patterns.pdf' in directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\DYKEQIIJ
  - [Burns et al. - Kubernetes Up and Running.pdf, Kubernetes: Up and Running] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Burns et al. - Kubernetes Up and Running.pdf]
  - [Verona - 2016 - Practical DevOps harness the power of DevOps to boost your skill set and make your IT organization.pdf, Practical DevOps: harness the power of DevOps to boost your skill set and make your IT organization perform better] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Verona - 2016 - Practical DevOps harness the power of DevOps to boost your skill set and make your IT organization.pdf]
  - [Bhat - 2018 - Practical Docker with Python Build, Release and Distribute your Python App with Docker.pdf, Practical Docker with Python: Build, Release and Distribute your Python App with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Bhat - 2018 - Practical Docker with Python Build, Release and Distribute your Python App with Docker.pdf]
@@ -626,7 +553,7 @@ General
  - [Hunter Ii - 2017 - Advanced Microservices.pdf, Advanced Microservices] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hunter Ii - 2017 - Advanced Microservices.pdf]
  - [Hall - 2015 - Ansible Configuration Management.pdf, Ansible Configuration Management] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hall - 2015 - Ansible Configuration Management.pdf]
  - [Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf, Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf]
-[INFO] Total PDFs found in DevOps&Docker&Kubernetes: 97
+[INFO] Total PDFs found in DevOps&Docker&Kubernetes: 146
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Distributed ...
@@ -653,21 +580,21 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Linux ...
-[WARNING] No attachments found for item: Linux Kernel Development, 3rd Edition
-[DEBUG] Item data for item_id=631:
-  - (631, 3, '2025-01-11 12:58:18', '2025-01-11 12:58:18', '2025-01-11 12:58:18', 1, 'TTTGC93X', 1374, 1, 'Linux Kernel Development, 3rd Edition', 'title')
-[WARNING] No attachments found for item: Maximum Linux Security - 2nd Edition
-[DEBUG] Item data for item_id=634:
-  - (634, 3, '2025-01-11 12:58:33', '2025-01-11 12:58:33', '2025-01-11 12:58:33', 1, 'LKBCEERS', 1379, 1, 'Maximum Linux Security - 2nd Edition', 'title')
-[WARNING] No attachments found for item: W. Richard Stevens - Unix Network Programming Vol2
-[DEBUG] Item data for item_id=636:
-  - (636, 3, '2025-01-11 12:58:41', '2025-01-11 12:58:41', '2025-01-11 12:58:41', 1, 'WYLHKZFV', 1383, 1, 'W. Richard Stevens - Unix Network Programming Vol2', 'title')
-[WARNING] No attachments found for item: Wicked Cool Shell Scripts, 2nd Edition
-[DEBUG] Item data for item_id=637:
-  - (637, 3, '2025-01-11 12:58:48', '2025-01-11 12:58:48', '2025-01-11 12:58:48', 1, 'KFBAQWU8', 1385, 1, 'Wicked Cool Shell Scripts, 2nd Edition', 'title')
-[WARNING] No attachments found for item: bash
-[DEBUG] Item data for item_id=639:
-  - (639, 3, '2025-01-11 12:58:57', '2025-01-11 12:58:57', '2025-01-11 12:58:57', 1, '582R6QGY', 1390, 1, 'bash', 'title')
+[NoFound] No attachments found for item: Linux Kernel Development, 3rd Edition
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TTTGC93X\Linux Kernel Development, 3rd Edition.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TTTGC93X\Linux Kernel Development, 3rd Edition.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Linux Kernel Development, 3rd Edition.pdf
+[NoFound] No attachments found for item: Maximum Linux Security - 2nd Edition
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LKBCEERS\Maximum Linux Security - 2nd Edition.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LKBCEERS\Maximum Linux Security - 2nd Edition.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Maximum Linux Security - 2nd Edition.pdf
+[NoFound] No attachments found for item: W. Richard Stevens - Unix Network Programming Vol2
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WYLHKZFV\W. Richard Stevens - Unix Network Programming Vol2.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\WYLHKZFV\W. Richard Stevens - Unix Network Programming Vol2.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\W. Richard Stevens - Unix Network Programming Vol2.pdf
+[NoFound] No attachments found for item: Wicked Cool Shell Scripts, 2nd Edition
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\KFBAQWU8\Wicked Cool Shell Scripts, 2nd Edition.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\KFBAQWU8\Wicked Cool Shell Scripts, 2nd Edition.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Wicked Cool Shell Scripts, 2nd Edition.pdf
+[NoFound] No attachments found for item: bash
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\582R6QGY\bash.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\582R6QGY\bash.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\bash.pdf
  - [Bovet and Cesati - 2001 - Understanding the Linux Kernel from I0 ports to process management.pdf, Understanding the Linux Kernel: from I/0 ports to process management] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Bovet and Cesati - 2001 - Understanding the Linux Kernel from I0 ports to process management.pdf]
  - [Blum - Linux® Command Line and Shell Scripting Bible.pdf, Linux® Command Line and Shell Scripting Bible] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Blum - Linux® Command Line and Shell Scripting Bible.pdf]
  - [Makan - 2014 - Penetration testing with the bash shell make the most of the Bash shell and Kali Linux's command li.pdf, Penetration testing with the bash shell: make the most of the Bash shell and Kali Linux's command line-based security assessment tools] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Makan - 2014 - Penetration testing with the bash shell make the most of the Bash shell and Kali Linux's command li.pdf]
@@ -676,19 +603,19 @@ General
  - [Hertzog et al. - 2017 - Kali Linux revealed mastering the penetration testing distribution.pdf, Kali Linux revealed: mastering the penetration testing distribution] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Hertzog et al. - 2017 - Kali Linux revealed mastering the penetration testing distribution.pdf]
  - [Patel - 2013 - Kali linux social engineering.pdf, Kali linux social engineering] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Patel - 2013 - Kali linux social engineering.pdf]
  - [Ramachandran and Buchanan - 2015 - Kali Linux wireless penetration testing master wireless testing techniques to survey and attack wir.pdf, Kali Linux wireless penetration testing: master wireless testing techniques to survey and attack wireless networks with Kali Linux] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Ramachandran and Buchanan - 2015 - Kali Linux wireless penetration testing master wireless testing techniques to survey and attack wir.pdf]
-[INFO] Total PDFs found in Linux: 8
+[INFO] Total PDFs found in Linux: 13
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Networks ...
-[WARNING] No attachments found for item: mininet-wifi-ebook-preview-EN-20191212
-[DEBUG] Item data for item_id=591:
-  - (591, 3, '2025-01-11 12:54:59', '2025-01-11 12:54:59', '2025-01-11 12:54:59', 1, '7RK59SV2', 1329, 1, 'mininet-wifi-ebook-preview-EN-20191212', 'title')
-[WARNING] No attachments found for item: Queueing_Data_Nets
-[DEBUG] Item data for item_id=597:
-  - (597, 3, '2025-01-11 12:55:31', '2025-01-11 12:55:31', '2025-01-11 12:55:31', 1, '5SMMXVSC', 1340, 1, 'Queueing_Data_Nets', 'title')
-[WARNING] No attachments found for item: computer_networks_-_a_tanenbaum_-_5th_edition_0
-[DEBUG] Item data for item_id=606:
-  - (606, 3, '2025-01-11 12:56:17', '2025-01-11 12:56:17', '2025-01-11 12:56:17', 1, 'LA2ILJXK', 1358, 1, 'computer_networks_-_a_tanenbaum_-_5th_edition_0', 'title')
+[NoFound] No attachments found for item: mininet-wifi-ebook-preview-EN-20191212
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7RK59SV2\mininet-wifi-ebook-preview-EN-20191212.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\7RK59SV2\mininet-wifi-ebook-preview-EN-20191212.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\mininet-wifi-ebook-preview-EN-20191212.pdf
+[NoFound] No attachments found for item: Queueing_Data_Nets
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5SMMXVSC\Queueing_Data_Nets.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\5SMMXVSC\Queueing_Data_Nets.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Queueing_Data_Nets.pdf
+[NoFound] No attachments found for item: computer_networks_-_a_tanenbaum_-_5th_edition_0
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LA2ILJXK\computer_networks_-_a_tanenbaum_-_5th_edition_0.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\LA2ILJXK\computer_networks_-_a_tanenbaum_-_5th_edition_0.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\computer_networks_-_a_tanenbaum_-_5th_edition_0.pdf
  - [Mishra - 2016 - Mastering Wireshark analyze data network like a professional by mastering Wireshark, from 0 to 1337.pdf, Mastering Wireshark: analyze data network like a professional by mastering Wireshark, from 0 to 1337] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Mishra - 2016 - Mastering Wireshark analyze data network like a professional by mastering Wireshark, from 0 to 1337.pdf]
  - [Nainar et al. - 2018 - Network analysis using Wireshark 2 cookbook practical recipes to analyze and secure your network us.pdf, Network analysis using Wireshark 2 cookbook: practical recipes to analyze and secure your network using Wireshark 2] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Nainar et al. - 2018 - Network analysis using Wireshark 2 cookbook practical recipes to analyze and secure your network us.pdf]
  - [Jetty - 2018 - Network scanning cookbook practical network security using Nmap and Nessus 7.pdf, Network scanning cookbook: practical network security using Nmap and Nessus 7] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Jetty - 2018 - Network scanning cookbook practical network security using Nmap and Nessus 7.pdf]
@@ -708,7 +635,7 @@ General
  - [Peterson and Davie - Computer Networks A Systems Approach.pdf, Computer Networks: A Systems Approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Peterson and Davie - Computer Networks A Systems Approach.pdf]
  - [Grigorik - 2013 - High-performance browser networking.pdf, High-performance browser networking] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Grigorik - 2013 - High-performance browser networking.pdf]
  - [Harold - 2014 - Java network programming.pdf, Java network programming] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Harold - 2014 - Java network programming.pdf]
-[INFO] Total PDFs found in Networks: 19
+[INFO] Total PDFs found in Networks: 22
 
  ---------------------------------------------------------------
 [INFO] Processing collection: OperatingSys&Real-Time ...
@@ -718,65 +645,65 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Other ...
-[WARNING] No attachments found for item: How to Read a Paper
-[DEBUG] Item data for item_id=565:
-  - (565, 3, '2025-01-11 12:48:54', '2025-01-11 12:48:54', '2025-01-11 12:48:54', 1, '4QLLCW6L', 1578, 1, 'How to Read a Paper', 'title')
-[WARNING] No attachments found for item: ReadPaper
-[DEBUG] Item data for item_id=566:
-  - (566, 3, '2025-01-11 12:48:54', '2025-01-11 12:48:54', '2025-01-11 12:48:54', 1, 'Q6L5Q6S2', 1302, 1, 'ReadPaper', 'title')
+[NoFound] No attachments found for item: How to Read a Paper
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4QLLCW6L\How to Read a Paper.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4QLLCW6L\How to Read a Paper.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\How to Read a Paper.pdf
+[NoFound] No attachments found for item: ReadPaper
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\Q6L5Q6S2\ReadPaper.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\Q6L5Q6S2\ReadPaper.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\ReadPaper.pdf
  - [Cassandras and Lafortune - 2021 - Introduction to Discrete Event Systems.pdf, Introduction to Discrete Event Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Cassandras and Lafortune - 2021 - Introduction to Discrete Event Systems.pdf]
  - [Tian and Levy - 2022 - Handbook of Real-Time Computing.pdf, Handbook of Real-Time Computing] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Tian and Levy - 2022 - Handbook of Real-Time Computing.pdf]
  - [Shore - The Art of Agile Development.pdf, The Art of Agile Development] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Shore - The Art of Agile Development.pdf]
  - [Das - 2018 - The Science of Biometrics Security Technology for Identity Verification.pdf, The Science of Biometrics: Security Technology for Identity Verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Das - 2018 - The Science of Biometrics Security Technology for Identity Verification.pdf]
  - [Rossberg - 2019 - Agile Project Management with Azure DevOps Concepts, Templates, and Metrics.pdf, Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Rossberg - 2019 - Agile Project Management with Azure DevOps Concepts, Templates, and Metrics.pdf]
-[INFO] Total PDFs found in Other: 5
+[INFO] Total PDFs found in Other: 7
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Light&Audio ...
-[WARNING] No attachments found for item: Electronic Projects for Musicians
-[DEBUG] Item data for item_id=574:
-  - (574, 3, '2025-01-11 12:50:13', '2025-01-11 12:50:13', '2025-01-11 12:50:13', 1, 'I9AGAC5R', 1309, 1, 'Electronic Projects for Musicians', 'title')
+[NoFound] No attachments found for item: Electronic Projects for Musicians
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\I9AGAC5R\Electronic Projects for Musicians.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\I9AGAC5R\Electronic Projects for Musicians.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light&Audio\Electronic Projects for Musicians.pdf
  - [Lundkvist - How to Design and Build an Analog Synthesizer from Scratch.pdf, How to Design and Build an Analog Synthesizer from Scratch] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light&Audio\Lundkvist - How to Design and Build an Analog Synthesizer from Scratch.pdf]
-[INFO] Total PDFs found in Light&Audio: 1
+[INFO] Total PDFs found in Light&Audio: 2
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ψυχοακουστική ...
-[WARNING] No attachments found for item: iMotions_Guide_EEG_PocketGuide_2016
-[DEBUG] Item data for item_id=577:
-  - (577, 3, '2025-01-11 12:51:30', '2025-01-11 12:51:30', '2025-01-11 12:51:30', 1, 'RIQ5XSEM', 1314, 1, 'iMotions_Guide_EEG_PocketGuide_2016', 'title')
+[NoFound] No attachments found for item: iMotions_Guide_EEG_PocketGuide_2016
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\RIQ5XSEM\iMotions_Guide_EEG_PocketGuide_2016.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\RIQ5XSEM\iMotions_Guide_EEG_PocketGuide_2016.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\iMotions_Guide_EEG_PocketGuide_2016.pdf
  - [Luck - 2014 - An introduction to the event-related potential technique.pdf, An introduction to the event-related potential technique] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Luck - 2014 - An introduction to the event-related potential technique.pdf]
  - [Rao - Brain-­Computer Interfacing An Introduction.pdf, Brain-­Computer Interfacing: An Introduction] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Rao - Brain-­Computer Interfacing An Introduction.pdf]
  - [Miranda and Castet - 2014 - Guide to Brain-Computer Music Interfacing.pdf, Guide to Brain-Computer Music Interfacing] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Miranda and Castet - 2014 - Guide to Brain-Computer Music Interfacing.pdf]
-[INFO] Total PDFs found in ψυχοακουστική: 3
+[INFO] Total PDFs found in ψυχοακουστική: 4
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Light ...
-[WARNING] No attachments found for item: basic_principles_lighting
-[DEBUG] Item data for item_id=581:
-  - (581, 3, '2025-01-11 12:51:50', '2025-01-11 12:51:50', '2025-01-11 12:51:50', 1, 'SYWBWMHF', 1320, 1, 'basic_principles_lighting', 'title')
-[WARNING] No attachments found for item: StageLightingTechnicianHandbook
-[DEBUG] Item data for item_id=582:
-  - (582, 3, '2025-01-11 12:51:51', '2025-01-11 12:51:51', '2025-01-11 12:51:51', 1, 'VVDVLT76', 1320, 1, 'StageLightingTechnicianHandbook', 'title')
+[NoFound] No attachments found for item: basic_principles_lighting
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\SYWBWMHF\basic_principles_lighting.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\SYWBWMHF\basic_principles_lighting.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light\basic_principles_lighting.pdf
+[NoFound] No attachments found for item: StageLightingTechnicianHandbook
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VVDVLT76\StageLightingTechnicianHandbook.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\VVDVLT76\StageLightingTechnicianHandbook.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light\StageLightingTechnicianHandbook.pdf
  - [Reid - 2013 - Stage Lighting Handbook.pdf, Stage Lighting Handbook] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light\Reid - 2013 - Stage Lighting Handbook.pdf]
-[INFO] Total PDFs found in Light: 1
+[INFO] Total PDFs found in Light: 3
 
  ---------------------------------------------------------------
 [INFO] Processing collection: AES ...
 
  ---------------------------------------------------------------
 [INFO] Processing collection: PenTest&Hack ...
-[WARNING] No attachments found for item: Mastering Kali Linux For Web Penetration Testing (2017)
-[DEBUG] Item data for item_id=520:
-  - (520, 3, '2025-01-11 12:45:30', '2025-01-11 12:45:30', '2025-01-11 12:45:30', 1, 'TN4CGXUX', 1257, 1, 'Mastering Kali Linux For Web Penetration Testing (2017)', 'title')
-[WARNING] No attachments found for item: Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019)
-[DEBUG] Item data for item_id=528:
-  - (528, 3, '2025-01-11 12:46:01', '2025-01-11 12:46:01', '2025-01-11 12:46:01', 1, 'IEYX2ZU3', 1268, 1, 'Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019)', 'title')
-[WARNING] No attachments found for item: Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016)
-[DEBUG] Item data for item_id=531:
-  - (531, 3, '2025-01-11 12:46:13', '2025-01-11 12:46:13', '2025-01-11 12:46:13', 1, 'HD3CJ7QI', 1272, 1, 'Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016)', 'title')
-[WARNING] No attachments found for item: Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
-[DEBUG] Item data for item_id=537:
-  - (537, 3, '2025-01-11 12:46:34', '2025-01-11 12:46:34', '2025-01-11 12:46:34', 1, '4CI65WAW', 1576, 1, 'Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson', 'title')
+[NoFound] No attachments found for item: Mastering Kali Linux For Web Penetration Testing (2017)
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TN4CGXUX\Mastering Kali Linux For Web Penetration Testing (2017).pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\TN4CGXUX\Mastering Kali Linux For Web Penetration Testing (2017).pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Mastering Kali Linux For Web Penetration Testing (2017).pdf
+[NoFound] No attachments found for item: Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019)
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\IEYX2ZU3\Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019).pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\IEYX2ZU3\Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019).pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019).pdf
+[NoFound] No attachments found for item: Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016)
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HD3CJ7QI\Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016).pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\HD3CJ7QI\Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016).pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016).pdf
+[NoFound] No attachments found for item: Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
+	[Searching] for: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4CI65WAW\Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson.pdf'
+		[Found] Found PDF in specific directory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\4CI65WAW\Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson.pdf -> Copied to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson.pdf
  - [Elisan - 2013 - Malware, rootkits & botnets a beginner's guide.pdf, Malware, rootkits & botnets: a beginner's guide] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Elisan - 2013 - Malware, rootkits & botnets a beginner's guide.pdf]
  - [Velu and Beggs - 2019 - Mastering Kali Linux for advanced penetration testing secure your network with Kali Linux 2019.1 -.pdf, Mastering Kali Linux for advanced penetration testing: secure your network with Kali Linux 2019.1 - the ultimate white hat hackers' toolkit, 3rd edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Velu and Beggs - 2019 - Mastering Kali Linux for advanced penetration testing secure your network with Kali Linux 2019.1 -.pdf]
  - [Jaswal - 2014 - Mastering Metasploit write and implement sophisticated attack vectors in Metasploit using a complet.pdf, Mastering Metasploit: write and implement sophisticated attack vectors in Metasploit using a completely hands-on approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Jaswal - 2014 - Mastering Metasploit write and implement sophisticated attack vectors in Metasploit using a complet.pdf]
@@ -797,7 +724,7 @@ General
  - [Khan - 2019 - Hands-on penetration testing with python enhance your ethical hacking skills to build automated and.pdf, Hands-on penetration testing with python: enhance your ethical hacking skills to build automated and intelligent systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Khan - 2019 - Hands-on penetration testing with python enhance your ethical hacking skills to build automated and.pdf]
  - [Halton and Weaver - 2018 - Kali Linux 2018 Windows penetration testing conduct network testing, surveillance, and pen testing.pdf, Kali Linux 2018: Windows penetration testing: conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Halton and Weaver - 2018 - Kali Linux 2018 Windows penetration testing conduct network testing, surveillance, and pen testing.pdf]
  - [Miller and Bryce - 2019 - Learning Python for forensics leverage the power of Python in forensic investigations, 2nd edition.pdf, Learning Python for forensics: leverage the power of Python in forensic investigations, 2nd edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Miller and Bryce - 2019 - Learning Python for forensics leverage the power of Python in forensic investigations, 2nd edition.pdf]
-[INFO] Total PDFs found in PenTest&Hack: 20
+[INFO] Total PDFs found in PenTest&Hack: 24
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Security ...
