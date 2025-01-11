@@ -118,7 +118,7 @@ try:
 
                 # Gather all available information about the item
                 cursor.execute("""
-                    SELECT items.*, itemDataValues.value, fields.fieldName
+                    SELECT items.key, itemDataValues.value, fields.fieldName
                     FROM items
                     LEFT JOIN itemData ON items.itemID = itemData.itemID
                     LEFT JOIN itemDataValues ON itemData.valueID = itemDataValues.valueID
@@ -127,10 +127,38 @@ try:
                 """, (item_id,))
                 item_data = cursor.fetchall()
 
-                # Print holistic data for debugging
+                # Directly retrieve key and title from the first row
+                if item_data:
+                    item_key = item_data[0][0]  # First row, first column: item_key
+                    item_title = item_data[0][1]  # First row, second column: item_title
+                else:
+                    item_key = None
+                    item_title = None
+
+                # Print debug information first
+                print(f"here {base_storage_dir}, {item_title}, {item_key}")
                 print(f"[DEBUG] Item data for item_id={item_id}:")
                 for row in item_data:
                     print(f"  - {row}")
+
+                # Start searching for the PDF after debug information
+                if item_key and item_title:  # Ensure both key and title are available
+                    specific_dir = os.path.join(base_storage_dir, item_key)
+                    expected_pdf = f"{item_title}.pdf"
+                    specific_pdf_path = os.path.join(specific_dir, expected_pdf)
+
+                    # Print debug message showing the exact path being searched
+                    print(f"[INFO] I am searching for: '{specific_pdf_path}'")
+
+                    if os.path.exists(specific_pdf_path):
+                        target_path = copy_pdf_to_target(specific_pdf_path, target_dir, collection_name)
+                        print(
+                            f"[INFO] Found PDF in specific directory: {specific_pdf_path} -> Copied to: {target_path}")
+                        pdf_found += 1
+                    else:
+                        print(f"[WARNING] PDF '{expected_pdf}' not found in directory: {specific_dir}")
+                else:
+                    print("[WARNING] Missing key or title; cannot search for PDF.")
                 continue
 
             for attachment in attachments:
