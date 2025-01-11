@@ -75,78 +75,39 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Lazaros ...
-  - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
-  - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-  - An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-  - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
-  - A testbed for SCADA control system cybersecurity research and pedagogy
-[WARNING] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
-  - Anomaly detection system based on analysis of packet header and payload histograms
  - [Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf, Anomaly detection system based on analysis of packet header and payload histograms] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf]
-  - Payload modeling for network Intrusion Detection Systems
  - [Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf, Payload modeling for network Intrusion Detection Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf]
-  - Data Mining for Anomalous Network Payload Detection
  - [Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf, Data Mining for Anomalous Network Payload Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf]
-  - P-Gram: Positional N-Gram for the Clustering of Machine-Generated Messages
  - [Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf, P-Gram: Positional N-Gram for the Clustering of Machine-Generated Messages] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf]
-  - Characterising Payload Entropy in Packet Flows
  - [Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf, Characterising Payload Entropy in Packet Flows] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf]
-  - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals
  - [Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf, Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf]
-  - anomaly detection for industrial control networks using hamming distance
-[WARNING] No attachments found for item: anomaly detection for industrial control networks using hamming distance
-  - An empirical evaluation of entropy-based traffic anomaly detection
  - [Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf, An empirical evaluation of entropy-based traffic anomaly detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf]
-  - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems
  - [Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf, Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf]
-  - Intrusion Detection & Prevention in Programmable Logic Controllers: A Model-driven Approach
  - [Negi et al. - 2020 - Intrusion Detection & Prevention in Programmable Logic Controllers A Model-driven Approach.pdf, Intrusion Detection & Prevention in Programmable Logic Controllers: A Model-driven Approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Negi et al. - 2020 - Intrusion Detection & Prevention in Programmable Logic Controllers A Model-driven Approach.pdf]
-  - Detecting PLC Intrusions Using Control Invariants
  - [Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf, Detecting PLC Intrusions Using Control Invariants] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf]
-  - An intrusion detection method based on log sequence clustering of honeypot for Modbus TCP protocol
  - [Wang et al. - 2018 - An intrusion detection method based on log sequence clustering of honeypot for Modbus TCP protocol.pdf, An intrusion detection method based on log sequence clustering of honeypot for Modbus TCP protocol] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Wang et al. - 2018 - An intrusion detection method based on log sequence clustering of honeypot for Modbus TCP protocol.pdf]
-  - Control variable classification, modeling and anomaly detection in Modbus/TCP SCADA systems
  - [Erez and Wool - 2015 - Control variable classification, modeling and anomaly detection in ModbusTCP SCADA systems.pdf, Control variable classification, modeling and anomaly detection in Modbus/TCP SCADA systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Erez and Wool - 2015 - Control variable classification, modeling and anomaly detection in ModbusTCP SCADA systems.pdf]
-  - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM
  - [Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf, Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf]
-  - Deep Packet Inspection for Enhanced Security in Microgrids: A Focus on the Modbus RTU Protocol
  - [Lee et al. - 2024 - Deep Packet Inspection for Enhanced Security in Microgrids A Focus on the Modbus RTU Protocol.pdf, Deep Packet Inspection for Enhanced Security in Microgrids: A Focus on the Modbus RTU Protocol] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Lee et al. - 2024 - Deep Packet Inspection for Enhanced Security in Microgrids A Focus on the Modbus RTU Protocol.pdf]
-  - Modbus TCP protocol in industrial control system Research on anomaly detection method
  - [Wang et al. - 2021 - Modbus TCP protocol in industrial control system Research on anomaly detection method.pdf, Modbus TCP protocol in industrial control system Research on anomaly detection method] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Wang et al. - 2021 - Modbus TCP protocol in industrial control system Research on anomaly detection method.pdf]
-  - Research on abnormal detection of ModbusTCP/IP protocol based on one-class SVM
  - [Dong and Peng - 2018 - Research on abnormal detection of ModbusTCPIP protocol based on one-class SVM.pdf, Research on abnormal detection of ModbusTCP/IP protocol based on one-class SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Dong and Peng - 2018 - Research on abnormal detection of ModbusTCPIP protocol based on one-class SVM.pdf]
-  - Detecting anomalous behavior of PLC using semi-supervised machine learning
  - [Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf, Detecting anomalous behavior of PLC using semi-supervised machine learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf]
-  - A Review of Intrusion Detection Systems for Industrial Control Systems
  - [Kaouk et al. - 2019 - A Review of Intrusion Detection Systems for Industrial Control Systems.pdf, A Review of Intrusion Detection Systems for Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Kaouk et al. - 2019 - A Review of Intrusion Detection Systems for Industrial Control Systems.pdf]
-  - Anomaly Diagnosis in Cyber-Physical Systems
  - [Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf, Anomaly Diagnosis in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf]
-  - iFinger: Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting
  - [Yang et al. - 2020 - iFinger Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting.pdf, iFinger: Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yang et al. - 2020 - iFinger Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting.pdf]
-  - Exploring The Use Of PLC Debugging Tools For Digital Forensic Investigations On SCADA Systems
  - [Wu and Nurse - 2015 - Exploring The Use Of PLC Debugging Tools For Digital Forensic Investigations On SCADA Systems.pdf, Exploring The Use Of PLC Debugging Tools For Digital Forensic Investigations On SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Wu and Nurse - 2015 - Exploring The Use Of PLC Debugging Tools For Digital Forensic Investigations On SCADA Systems.pdf]
-  - Detecting Anomalous Programmable Logic Controller Events Using Machine Learning
  - [Yau and Chow - 2017 - Detecting Anomalous Programmable Logic Controller Events Using Machine Learning.pdf, Detecting Anomalous Programmable Logic Controller Events Using Machine Learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yau and Chow - 2017 - Detecting Anomalous Programmable Logic Controller Events Using Machine Learning.pdf]
  - [Yau and Chow - 2017 - Detecting Anomalous Programmable Logic Controller Events Using Machine Learning.pdf, Detecting Anomalous Programmable Logic Controller Events Using Machine Learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yau and Chow - 2017 - Detecting Anomalous Programmable Logic Controller Events Using Machine Learning.pdf]
-  - PLC Forensics Based on Control Program Logic Change Detection
  - [Yau - 2015 - PLC Forensics Based on Control Program Logic Change Detection.pdf, PLC Forensics Based on Control Program Logic Change Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yau - 2015 - PLC Forensics Based on Control Program Logic Change Detection.pdf]
-  - Incident analysis & digital forensics in SCADA and industrial control systems
  - [Spyridopoulos et al. - 2013 - Incident analysis & digital forensics in SCADA and industrial control systems.pdf, Incident analysis & digital forensics in SCADA and industrial control systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Spyridopoulos et al. - 2013 - Incident analysis & digital forensics in SCADA and industrial control systems.pdf]
-  - Vulnerability Assessment and Mitigation for Industrial Critical Infrastructures with Cyber Physical Test Bed
  - [Negi et al. - 2019 - Vulnerability Assessment and Mitigation for Industrial Critical Infrastructures with Cyber Physical.pdf, Vulnerability Assessment and Mitigation for Industrial Critical Infrastructures with Cyber Physical Test Bed] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Negi et al. - 2019 - Vulnerability Assessment and Mitigation for Industrial Critical Infrastructures with Cyber Physical.pdf]
-  - Accurate modeling of Modbus/TCP for intrusion detection in SCADA systems
  - [Goldenberg and Wool - 2013 - Accurate modeling of ModbusTCP for intrusion detection in SCADA systems.pdf, Accurate modeling of Modbus/TCP for intrusion detection in SCADA systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Goldenberg and Wool - 2013 - Accurate modeling of ModbusTCP for intrusion detection in SCADA systems.pdf]
-  - Distributed Intrusion Detection System using Semantic-based Rules for SCADA in Smart Grid
  - [Mohan et al. - 2020 - Distributed Intrusion Detection System using Semantic-based Rules for SCADA in Smart Grid.pdf, Distributed Intrusion Detection System using Semantic-based Rules for SCADA in Smart Grid] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Mohan et al. - 2020 - Distributed Intrusion Detection System using Semantic-based Rules for SCADA in Smart Grid.pdf]
-  - Mining Anomaly Communication Patterns for Industrial Control Systems
  - [Yu et al. - 2018 - Mining Anomaly Communication Patterns for Industrial Control Systems.pdf, Mining Anomaly Communication Patterns for Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Yu et al. - 2018 - Mining Anomaly Communication Patterns for Industrial Control Systems.pdf]
-  - Detecting attacks to internal vehicle networks through Hamming distance
  - [Stabili et al. - 2017 - Detecting attacks to internal vehicle networks through Hamming distance.pdf, Detecting attacks to internal vehicle networks through Hamming distance] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Stabili et al. - 2017 - Detecting attacks to internal vehicle networks through Hamming distance.pdf]
-  - Digital Twin-based Anomaly Detection in Cyber-physical Systems
  - [Xu et al. - 2021 - Digital Twin-based Anomaly Detection in Cyber-physical Systems.pdf, Digital Twin-based Anomaly Detection in Cyber-physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Lazaros\Xu et al. - 2021 - Digital Twin-based Anomaly Detection in Cyber-physical Systems.pdf]
 [INFO] Total PDFs found in Lazaros: 34
 
@@ -155,157 +116,87 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ML_SVM ...
-  - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
-  - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-  - An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-  - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
-  - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM
  - [Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf, Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ML_SVM\Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf]
 [INFO] Total PDFs found in ML_SVM: 4
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Payload ...
-  - Anomaly detection system based on analysis of packet header and payload histograms
  - [Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf, Anomaly detection system based on analysis of packet header and payload histograms] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Payload\Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf]
-  - Payload modeling for network Intrusion Detection Systems
  - [Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf, Payload modeling for network Intrusion Detection Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Payload\Nwanze et al. - 2009 - Payload modeling for network Intrusion Detection Systems.pdf]
-  - Data Mining for Anomalous Network Payload Detection
  - [Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf, Data Mining for Anomalous Network Payload Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Payload\Mrdovic - Data Mining for Anomalous Network Payload Detection.pdf]
-  - Characterising Payload Entropy in Packet Flows
  - [Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf, Characterising Payload Entropy in Packet Flows] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Payload\Kenyon et al. - 2024 - Characterising Payload Entropy in Packet Flows.pdf]
 [INFO] Total PDFs found in Payload: 4
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Entropy ...
-  - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Entropy\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
-  - An empirical evaluation of entropy-based traffic anomaly detection
  - [Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf, An empirical evaluation of entropy-based traffic anomaly detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Entropy\Nychis et al. - 2008 - An empirical evaluation of entropy-based traffic anomaly detection.pdf]
-  - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM
  - [Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf, Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Entropy\Aung and Htaik - 2020 - Anomaly Detection in SDN’s Control Plane using Combining Entropy with SVM.pdf]
 [INFO] Total PDFs found in Entropy: 3
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Hamming distance ...
-  - anomaly detection for industrial control networks using hamming distance
-[WARNING] No attachments found for item: anomaly detection for industrial control networks using hamming distance
-  - Detecting anomalous behavior of PLC using semi-supervised machine learning
  - [Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf, Detecting anomalous behavior of PLC using semi-supervised machine learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Hamming distance\Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf]
 [INFO] Total PDFs found in Hamming distance: 1
 
  ---------------------------------------------------------------
 [INFO] Processing collection: positional entropy ...
-  - P-Gram: Positional N-Gram for the Clustering of Machine-Generated Messages
  - [Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf, P-Gram: Positional N-Gram for the Clustering of Machine-Generated Messages] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\positional entropy\Jiang et al. - 2019 - P-Gram Positional N-Gram for the Clustering of Machine-Generated Messages.pdf]
-  - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals
  - [Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf, Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\positional entropy\Cholewa and Płaczek - 2020 - Application of Positional Entropy to Fast Shannon Entropy Estimation for Samples of Digital Signals.pdf]
 [INFO] Total PDFs found in positional entropy: 2
 
  ---------------------------------------------------------------
 [INFO] Processing collection: dataset ...
-  - A testbed for SCADA control system cybersecurity research and pedagogy
-[WARNING] No attachments found for item: A testbed for SCADA control system cybersecurity research and pedagogy
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ✅ ...
-  - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis
  - [Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf, Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Ghosh et al. - 2023 - Anomaly Detection for Modbus over TCP in Control Systems Using Entropy and Classification-Based Anal.pdf]
-  - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System
  - [Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf, An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Cui and Feng - 2023 - An Improved Support Vector Machine Attack Detection Algorithm for Industry Controls System.pdf]
-  - An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-[WARNING] No attachments found for item: An Evaluation of Machine Learning-based Anomaly Detection in a SCADA System Using the Modbus Protocol
-  - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems
  - [Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf, Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Faramondi et al. - 2023 - Evaluating Machine Learning Approaches for Cyber and Physical Anomalies in SCADA Systems.pdf]
-  - Anomaly detection system based on analysis of packet header and payload histograms
  - [Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf, Anomaly detection system based on analysis of packet header and payload histograms] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Hareesh et al. - 2011 - Anomaly detection system based on analysis of packet header and payload histograms.pdf]
-  - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems
  - [Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf, Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Gawehn et al. - 2022 - Deep Learning-based Multi-PLC Anomaly Detection in Industrial Control Systems.pdf]
-  - Modbus TCP protocol in industrial control system Research on anomaly detection method
  - [Wang et al. - 2021 - Modbus TCP protocol in industrial control system Research on anomaly detection method.pdf, Modbus TCP protocol in industrial control system Research on anomaly detection method] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Wang et al. - 2021 - Modbus TCP protocol in industrial control system Research on anomaly detection method.pdf]
-  - Research on abnormal detection of ModbusTCP/IP protocol based on one-class SVM
  - [Dong and Peng - 2018 - Research on abnormal detection of ModbusTCPIP protocol based on one-class SVM.pdf, Research on abnormal detection of ModbusTCP/IP protocol based on one-class SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Dong and Peng - 2018 - Research on abnormal detection of ModbusTCPIP protocol based on one-class SVM.pdf]
-  - Detecting anomalous behavior of PLC using semi-supervised machine learning
  - [Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf, Detecting anomalous behavior of PLC using semi-supervised machine learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Yau et al. - 2017 - Detecting anomalous behavior of PLC using semi-supervised machine learning.pdf]
-  - Anomaly Diagnosis in Cyber-Physical Systems
  - [Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf, Anomaly Diagnosis in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf]
-  - iFinger: Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting
  - [Yang et al. - 2020 - iFinger Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting.pdf, iFinger: Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Yang et al. - 2020 - iFinger Intrusion Detection in Industrial Control Systems via Register-Based Fingerprinting.pdf]
-  - Research on Industrial Control Anomaly Detection Based on FCM and SVM
  - [Shang et al. - 2018 - Research on Industrial Control Anomaly Detection Based on FCM and SVM.pdf, Research on Industrial Control Anomaly Detection Based on FCM and SVM] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Shang et al. - 2018 - Research on Industrial Control Anomaly Detection Based on FCM and SVM.pdf]
-  - Anomaly-based Intrusion Detection in Industrial Data with SVM and Random Forests
  - [Anton et al. - 2019 - Anomaly-based Intrusion Detection in Industrial Data with SVM and Random Forests.pdf, Anomaly-based Intrusion Detection in Industrial Data with SVM and Random Forests] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Anton et al. - 2019 - Anomaly-based Intrusion Detection in Industrial Data with SVM and Random Forests.pdf]
-  - Evaluation of Machine Learning-based Anomaly Detection Algorithms on an Industrial Modbus/TCP Data Set
  - [Anton et al. - 2018 - Evaluation of Machine Learning-based Anomaly Detection Algorithms on an Industrial ModbusTCP Data S.pdf, Evaluation of Machine Learning-based Anomaly Detection Algorithms on an Industrial Modbus/TCP Data Set] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\✅\Anton et al. - 2018 - Evaluation of Machine Learning-based Anomaly Detection Algorithms on an Industrial ModbusTCP Data S.pdf]
 [INFO] Total PDFs found in ✅: 13
 
  ---------------------------------------------------------------
 [INFO] Processing collection: to_categ ...
-  - Detecting PLC Intrusions Using Control Invariants
  - [Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf, Detecting PLC Intrusions Using Control Invariants] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf]
-  - PLCPrint: Fingerprinting Memory Attacks in Programmable Logic Controllers
  - [Cook et al. - 2023 - PLCPrint Fingerprinting Memory Attacks in Programmable Logic Controllers.pdf, PLCPrint: Fingerprinting Memory Attacks in Programmable Logic Controllers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Cook et al. - 2023 - PLCPrint Fingerprinting Memory Attacks in Programmable Logic Controllers.pdf]
-  - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network
  - [Aboah Boateng et al. - 2022 - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network.pdf, Anomaly Detection for a Water Treatment System Based on One-Class Neural Network] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Aboah Boateng et al. - 2022 - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network.pdf]
-  - A Heterogeneous Redundant Architecture for Industrial Control System Security
  - [Dai et al. - 2022 - A Heterogeneous Redundant Architecture for Industrial Control System Security.pdf, A Heterogeneous Redundant Architecture for Industrial Control System Security] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Dai et al. - 2022 - A Heterogeneous Redundant Architecture for Industrial Control System Security.pdf]
-  - Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
  - [Ayub et al. - 2024 - Charlie, Charlie, Charlie on Industrial Control Systems PLC Control Logic Attacks by Design, Not by.pdf, Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ayub et al. - 2024 - Charlie, Charlie, Charlie on Industrial Control Systems PLC Control Logic Attacks by Design, Not by.pdf]
-  - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning
  - [Xia et al. - 2024 - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning.pdf, Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Xia et al. - 2024 - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning.pdf]
-  - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection
  - [Akpinar and Ozcelik - 2019 - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection.pdf, Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Akpinar and Ozcelik - 2019 - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection.pdf]
-  - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters
  - [Krishnamurthy et al. - 2020 - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.pdf, Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Krishnamurthy et al. - 2020 - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.pdf]
-  - PCAT: PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants
  - [Shrivastava et al. - 2021 - PCAT PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants.pdf, PCAT: PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Shrivastava et al. - 2021 - PCAT PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants.pdf]
-  - PLC security and critical infrastructure protection
  - [Sandaruwan et al. - 2013 - PLC security and critical infrastructure protection.pdf, PLC security and critical infrastructure protection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Sandaruwan et al. - 2013 - PLC security and critical infrastructure protection.pdf]
-  - Detecting PLC control corruption via on-device runtime verification
  - [Garcia et al. - 2016 - Detecting PLC control corruption via on-device runtime verification.pdf, Detecting PLC control corruption via on-device runtime verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Garcia et al. - 2016 - Detecting PLC control corruption via on-device runtime verification.pdf]
-  - PLC Guard: A practical defense against attacks on cyber-physical systems
  - [Malchow et al. - 2015 - PLC Guard A practical defense against attacks on cyber-physical systems.pdf, PLC Guard: A practical defense against attacks on cyber-physical systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Malchow et al. - 2015 - PLC Guard A practical defense against attacks on cyber-physical systems.pdf]
-  - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems
  - [Kabiri and Chavoshi - 2019 - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems.pdf, Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Kabiri and Chavoshi - 2019 - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems.pdf]
-  - Forensic Investigation of Industrial Control Systems Using Deterministic Replay
  - [Walkup et al. - 2020 - Forensic Investigation of Industrial Control Systems Using Deterministic Replay.pdf, Forensic Investigation of Industrial Control Systems Using Deterministic Replay] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Walkup et al. - 2020 - Forensic Investigation of Industrial Control Systems Using Deterministic Replay.pdf]
-  - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security
  - [Sicard et al. - 2020 - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security.pdf, Optimization of Process-Aware Attack Detection for Industrial Control Systems Security] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Sicard et al. - 2020 - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security.pdf]
-  - Strengthening Cybersecurity for Industrial Control Systems: Innovations in Protecting PLC-Based Infrastructure
  - [Huang et al. - 2023 - Strengthening Cybersecurity for Industrial Control Systems Innovations in Protecting PLC-Based Infr.pdf, Strengthening Cybersecurity for Industrial Control Systems: Innovations in Protecting PLC-Based Infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Huang et al. - 2023 - Strengthening Cybersecurity for Industrial Control Systems Innovations in Protecting PLC-Based Infr.pdf]
-  - CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code
  - [Tan et al. - 2022 - CoToRu Automatic Generation of Network Intrusion Detection Rules from Code.pdf, CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Tan et al. - 2022 - CoToRu Automatic Generation of Network Intrusion Detection Rules from Code.pdf]
-  - Anomoly Detection for PLC Based on Magnetic Side Channel
  - [Zhou et al. - 2020 - Anomoly Detection for PLC Based on Magnetic Side Channel.pdf, Anomoly Detection for PLC Based on Magnetic Side Channel] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Zhou et al. - 2020 - Anomoly Detection for PLC Based on Magnetic Side Channel.pdf]
-  - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations
  - [Dheeraj et al. - 2019 - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations.pdf, Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Dheeraj et al. - 2019 - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations.pdf]
-  - Detection of Ladder Logic Bombs in PLC Control Programs: an Architecture based on Formal Verification
  - [Iacobelli et al. - 2024 - Detection of Ladder Logic Bombs in PLC Control Programs an Architecture based on Formal Verificatio.pdf, Detection of Ladder Logic Bombs in PLC Control Programs: an Architecture based on Formal Verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Iacobelli et al. - 2024 - Detection of Ladder Logic Bombs in PLC Control Programs an Architecture based on Formal Verificatio.pdf]
-  - Web Based Cyber Attack Detection for Industrial System (PLC) Using Deep Learning
-  - Attacking Automation Systems via the PLC Backplane Bus
-  - AI-based Secure Intrusion Detection Framework for Digital Twin-enabled Critical Infrastructure
-  - Security of Programmable Logic Controllers and Related Systems: Today and Tomorrow
-  - Abnormal Data Detection Algorithm for Wireless Sensor Networks Based on PLC
-  - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process
  - [Ramos and Yang - 2023 - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process.pdf, LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ramos and Yang - 2023 - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process.pdf]
-  - Utilising the capabilities of next-generation PLC controllers for ICSs protection from cyber threats
-  - Intrusion Detection Systems for Cyber Attacks Detection in Power Line Communications Networks
-  - Protecting Modbus/TCP-Based Industrial Automation and Control Systems Using Message Authentication Codes
-  - A Survey on Industrial Control System Digital Forensics: Challenges, Advances and Future Directions
-  - PLC Cyber-Security Challenges in Industrial Networks
  - [Ramirez et al. - 2022 - PLC Cyber-Security Challenges in Industrial Networks.pdf, PLC Cyber-Security Challenges in Industrial Networks] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ramirez et al. - 2022 - PLC Cyber-Security Challenges in Industrial Networks.pdf]
-  - ShadowPLCs: A Novel Scheme for Remote Detection of Industrial Process Control Attacks
-  - Malware Injection in Operational Technology Networks
-  - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Controllers
  - [Alves et al. - 2018 - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Control.pdf, Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Controllers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Alves et al. - 2018 - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Control.pdf]
 [INFO] Total PDFs found in to_categ: 23
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Marnerides ...
-  - Anomaly Diagnosis in Cyber-Physical Systems
  - [Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf, Anomaly Diagnosis in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Marnerides\Cook et al. - 2022 - Anomaly Diagnosis in Cyber-Physical Systems.pdf]
 [INFO] Total PDFs found in Marnerides: 1
 
@@ -314,62 +205,28 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: to_categ ...
-  - Detecting PLC Intrusions Using Control Invariants
  - [Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf, Detecting PLC Intrusions Using Control Invariants] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Yang et al. - 2022 - Detecting PLC Intrusions Using Control Invariants.pdf]
-  - PLCPrint: Fingerprinting Memory Attacks in Programmable Logic Controllers
  - [Cook et al. - 2023 - PLCPrint Fingerprinting Memory Attacks in Programmable Logic Controllers.pdf, PLCPrint: Fingerprinting Memory Attacks in Programmable Logic Controllers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Cook et al. - 2023 - PLCPrint Fingerprinting Memory Attacks in Programmable Logic Controllers.pdf]
-  - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network
  - [Aboah Boateng et al. - 2022 - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network.pdf, Anomaly Detection for a Water Treatment System Based on One-Class Neural Network] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Aboah Boateng et al. - 2022 - Anomaly Detection for a Water Treatment System Based on One-Class Neural Network.pdf]
-  - A Heterogeneous Redundant Architecture for Industrial Control System Security
  - [Dai et al. - 2022 - A Heterogeneous Redundant Architecture for Industrial Control System Security.pdf, A Heterogeneous Redundant Architecture for Industrial Control System Security] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Dai et al. - 2022 - A Heterogeneous Redundant Architecture for Industrial Control System Security.pdf]
-  - Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance
  - [Ayub et al. - 2024 - Charlie, Charlie, Charlie on Industrial Control Systems PLC Control Logic Attacks by Design, Not by.pdf, Charlie, Charlie, Charlie on Industrial Control Systems: PLC Control Logic Attacks by Design, Not by Chance] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ayub et al. - 2024 - Charlie, Charlie, Charlie on Industrial Control Systems PLC Control Logic Attacks by Design, Not by.pdf]
-  - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning
  - [Xia et al. - 2024 - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning.pdf, Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Xia et al. - 2024 - Lightweight Intrusion Detection Based on Hybrid Feature Selection Machine Learning.pdf]
-  - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection
  - [Akpinar and Ozcelik - 2019 - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection.pdf, Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Akpinar and Ozcelik - 2019 - Analysis of Machine Learning Methods in EtherCAT-Based Anomaly Detection.pdf]
-  - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters
  - [Krishnamurthy et al. - 2020 - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.pdf, Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Krishnamurthy et al. - 2020 - Anomaly Detection in Real-Time Multi-Threaded Processes Using Hardware Performance Counters.pdf]
-  - PCAT: PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants
  - [Shrivastava et al. - 2021 - PCAT PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants.pdf, PCAT: PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Shrivastava et al. - 2021 - PCAT PLC Command Analysis Tool for automatic incidence response in Water Treatment Plants.pdf]
-  - PLC security and critical infrastructure protection
  - [Sandaruwan et al. - 2013 - PLC security and critical infrastructure protection.pdf, PLC security and critical infrastructure protection] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Sandaruwan et al. - 2013 - PLC security and critical infrastructure protection.pdf]
-  - Detecting PLC control corruption via on-device runtime verification
  - [Garcia et al. - 2016 - Detecting PLC control corruption via on-device runtime verification.pdf, Detecting PLC control corruption via on-device runtime verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Garcia et al. - 2016 - Detecting PLC control corruption via on-device runtime verification.pdf]
-  - PLC Guard: A practical defense against attacks on cyber-physical systems
  - [Malchow et al. - 2015 - PLC Guard A practical defense against attacks on cyber-physical systems.pdf, PLC Guard: A practical defense against attacks on cyber-physical systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Malchow et al. - 2015 - PLC Guard A practical defense against attacks on cyber-physical systems.pdf]
-  - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems
  - [Kabiri and Chavoshi - 2019 - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems.pdf, Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Kabiri and Chavoshi - 2019 - Destructive Attacks Detection and Response System for Physical Devices in Cyber-Physical Systems.pdf]
-  - Forensic Investigation of Industrial Control Systems Using Deterministic Replay
  - [Walkup et al. - 2020 - Forensic Investigation of Industrial Control Systems Using Deterministic Replay.pdf, Forensic Investigation of Industrial Control Systems Using Deterministic Replay] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Walkup et al. - 2020 - Forensic Investigation of Industrial Control Systems Using Deterministic Replay.pdf]
-  - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security
  - [Sicard et al. - 2020 - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security.pdf, Optimization of Process-Aware Attack Detection for Industrial Control Systems Security] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Sicard et al. - 2020 - Optimization of Process-Aware Attack Detection for Industrial Control Systems Security.pdf]
-  - Strengthening Cybersecurity for Industrial Control Systems: Innovations in Protecting PLC-Based Infrastructure
  - [Huang et al. - 2023 - Strengthening Cybersecurity for Industrial Control Systems Innovations in Protecting PLC-Based Infr.pdf, Strengthening Cybersecurity for Industrial Control Systems: Innovations in Protecting PLC-Based Infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Huang et al. - 2023 - Strengthening Cybersecurity for Industrial Control Systems Innovations in Protecting PLC-Based Infr.pdf]
-  - CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code
  - [Tan et al. - 2022 - CoToRu Automatic Generation of Network Intrusion Detection Rules from Code.pdf, CoToRu: Automatic Generation of Network Intrusion Detection Rules from Code] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Tan et al. - 2022 - CoToRu Automatic Generation of Network Intrusion Detection Rules from Code.pdf]
-  - Anomoly Detection for PLC Based on Magnetic Side Channel
  - [Zhou et al. - 2020 - Anomoly Detection for PLC Based on Magnetic Side Channel.pdf, Anomoly Detection for PLC Based on Magnetic Side Channel] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Zhou et al. - 2020 - Anomoly Detection for PLC Based on Magnetic Side Channel.pdf]
-  - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations
  - [Dheeraj et al. - 2019 - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations.pdf, Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Dheeraj et al. - 2019 - Design and Development of SCADA Firewall Security Features for Protecting Industrial Operations.pdf]
-  - Detection of Ladder Logic Bombs in PLC Control Programs: an Architecture based on Formal Verification
  - [Iacobelli et al. - 2024 - Detection of Ladder Logic Bombs in PLC Control Programs an Architecture based on Formal Verificatio.pdf, Detection of Ladder Logic Bombs in PLC Control Programs: an Architecture based on Formal Verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Iacobelli et al. - 2024 - Detection of Ladder Logic Bombs in PLC Control Programs an Architecture based on Formal Verificatio.pdf]
-  - Web Based Cyber Attack Detection for Industrial System (PLC) Using Deep Learning
-  - Attacking Automation Systems via the PLC Backplane Bus
-  - AI-based Secure Intrusion Detection Framework for Digital Twin-enabled Critical Infrastructure
-  - Security of Programmable Logic Controllers and Related Systems: Today and Tomorrow
-  - Abnormal Data Detection Algorithm for Wireless Sensor Networks Based on PLC
-  - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process
  - [Ramos and Yang - 2023 - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process.pdf, LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ramos and Yang - 2023 - LSTM-Based Detection of OT Cyber-Attacks for an Offshore HVAC-Cooling Process.pdf]
-  - Utilising the capabilities of next-generation PLC controllers for ICSs protection from cyber threats
-  - Intrusion Detection Systems for Cyber Attacks Detection in Power Line Communications Networks
-  - Protecting Modbus/TCP-Based Industrial Automation and Control Systems Using Message Authentication Codes
-  - A Survey on Industrial Control System Digital Forensics: Challenges, Advances and Future Directions
-  - PLC Cyber-Security Challenges in Industrial Networks
  - [Ramirez et al. - 2022 - PLC Cyber-Security Challenges in Industrial Networks.pdf, PLC Cyber-Security Challenges in Industrial Networks] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Ramirez et al. - 2022 - PLC Cyber-Security Challenges in Industrial Networks.pdf]
-  - ShadowPLCs: A Novel Scheme for Remote Detection of Industrial Process Control Attacks
-  - Malware Injection in Operational Technology Networks
-  - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Controllers
  - [Alves et al. - 2018 - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Control.pdf, Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Controllers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\to_categ\Alves et al. - 2018 - Embedding Encryption and Machine Learning Intrusion Prevention Systems on Programmable Logic Control.pdf]
 [INFO] Total PDFs found in to_categ: 23
 
@@ -378,533 +235,227 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Clean_Code ...
-  - The Clean Coder
-[WARNING] No attachments found for item: The Clean Coder
-  - Clean Craftsmanship
  - [Martin - Clean Craftsmanship.pdf, Clean Craftsmanship] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Martin - Clean Craftsmanship.pdf]
-  - Code simplicity: the fundamentals of software
  - [Kanat-Alexander - 2012 - Code simplicity the fundamentals of software.pdf, Code simplicity: the fundamentals of software] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Kanat-Alexander - 2012 - Code simplicity the fundamentals of software.pdf]
-  - Code That Fits in Your Head
  - [Seemann - Code That Fits in Your Head.pdf, Code That Fits in Your Head] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Seemann - Code That Fits in Your Head.pdf]
-  - Head First Design Patterns
  - [Freeman and Robson - Head First Design Patterns.pdf, Head First Design Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Freeman and Robson - Head First Design Patterns.pdf]
-  - Pragmatic Programming: A Complete Introduction to the Pragmatic Programmer
  - [Wallace - Pragmatic Programming A Complete Introduction to the Pragmatic Programmer.pdf, Pragmatic Programming: A Complete Introduction to the Pragmatic Programmer] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Clean_Code\Wallace - Pragmatic Programming A Complete Introduction to the Pragmatic Programmer.pdf]
 [INFO] Total PDFs found in Clean_Code: 5
 
  ---------------------------------------------------------------
 [INFO] Processing collection: CPS ...
-  - Embedded, Cyber-Physical, and IoT Systems: Essays Dedicated to Marilyn Wolf on the Occasion of Her 60th Birthday
  - [Bhattacharyya et al. - 2020 - Embedded, Cyber-Physical, and IoT Systems Essays Dedicated to Marilyn Wolf on the Occasion of Her 6.pdf, Embedded, Cyber-Physical, and IoT Systems: Essays Dedicated to Marilyn Wolf on the Occasion of Her 60th Birthday] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Bhattacharyya et al. - 2020 - Embedded, Cyber-Physical, and IoT Systems Essays Dedicated to Marilyn Wolf on the Occasion of Her 6.pdf]
-  - Security and Quality in Cyber-Physical Systems Engineering: With Forewords by Robert M. Lee and Tom Gilb
  - [Biffl et al. - 2019 - Security and Quality in Cyber-Physical Systems Engineering With Forewords by Robert M. Lee and Tom.pdf, Security and Quality in Cyber-Physical Systems Engineering: With Forewords by Robert M. Lee and Tom Gilb] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Biffl et al. - 2019 - Security and Quality in Cyber-Physical Systems Engineering With Forewords by Robert M. Lee and Tom.pdf]
-  - Cyber-Physical Systems: A Model-Based Approach
  - [Taha et al. - 2021 - Cyber-Physical Systems A Model-Based Approach.pdf, Cyber-Physical Systems: A Model-Based Approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Taha et al. - 2021 - Cyber-Physical Systems A Model-Based Approach.pdf]
-  - Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things
  - [Ranjan et al. - 2020 - Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things.pdf, Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Ranjan et al. - 2020 - Handbook of Integration of Cloud Computing, Cyber Physical Systems and Internet of Things.pdf]
-  - Cyber-Physical Systems: Digital Technologies and Applications
  - [Kravets et al. - 2021 - Cyber-Physical Systems Digital Technologies and Applications.pdf, Cyber-Physical Systems: Digital Technologies and Applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Kravets et al. - 2021 - Cyber-Physical Systems Digital Technologies and Applications.pdf]
-  - Access Control Models and Architectures For IoT and Cyber Physical Systems
  - [Gupta et al. - 2022 - Access Control Models and Architectures For IoT and Cyber Physical Systems.pdf, Access Control Models and Architectures For IoT and Cyber Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Gupta et al. - 2022 - Access Control Models and Architectures For IoT and Cyber Physical Systems.pdf]
-  - Collaborative Approaches for Cyber Security in Cyber-Physical Systems
  - [Dimitrakos et al. - 2023 - Collaborative Approaches for Cyber Security in Cyber-Physical Systems.pdf, Collaborative Approaches for Cyber Security in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Dimitrakos et al. - 2023 - Collaborative Approaches for Cyber Security in Cyber-Physical Systems.pdf]
-  - Blockchain for Cybersecurity in Cyber-Physical Systems
  - [Maleh et al. - 2023 - Blockchain for Cybersecurity in Cyber-Physical Systems.pdf, Blockchain for Cybersecurity in Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Maleh et al. - 2023 - Blockchain for Cybersecurity in Cyber-Physical Systems.pdf]
-  - Security and Privacy in Cyber-Physical Systems and Smart Vehicles: First EAI International Conference, SmartSP 2023, Chicago, USA, October 12-13, 2023, Proceedings
  - [Chen et al. - 2024 - Security and Privacy in Cyber-Physical Systems and Smart Vehicles First EAI International Conferenc.pdf, Security and Privacy in Cyber-Physical Systems and Smart Vehicles: First EAI International Conference, SmartSP 2023, Chicago, USA, October 12-13, 2023, Proceedings] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Chen et al. - 2024 - Security and Privacy in Cyber-Physical Systems and Smart Vehicles First EAI International Conferenc.pdf]
-  - Detection of Intrusions and Malware, and Vulnerability Assessment: 21st International Conference, DIMVA 2024, Lausanne, Switzerland, July 17–19, 2024, Proceedings
  - [Maggi et al. - 2024 - Detection of Intrusions and Malware, and Vulnerability Assessment 21st International Conference, DI.pdf, Detection of Intrusions and Malware, and Vulnerability Assessment: 21st International Conference, DIMVA 2024, Lausanne, Switzerland, July 17–19, 2024, Proceedings] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Maggi et al. - 2024 - Detection of Intrusions and Malware, and Vulnerability Assessment 21st International Conference, DI.pdf]
-  - Safety and Security of Cyber-Physical Systems: Engineering dependable Software using Principle-based Development
  - [Furrer - 2022 - Safety and Security of Cyber-Physical Systems Engineering dependable Software using Principle-based.pdf, Safety and Security of Cyber-Physical Systems: Engineering dependable Software using Principle-based Development] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Furrer - 2022 - Safety and Security of Cyber-Physical Systems Engineering dependable Software using Principle-based.pdf]
-  - Machine Learning for Cyber Physical Systems: Selected papers from the International Conference ML4CPS 2020
  - [Beyerer et al. - 2021 - Machine Learning for Cyber Physical Systems Selected papers from the International Conference ML4CP.pdf, Machine Learning for Cyber Physical Systems: Selected papers from the International Conference ML4CPS 2020] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Beyerer et al. - 2021 - Machine Learning for Cyber Physical Systems Selected papers from the International Conference ML4CP.pdf]
-  - Applied Cyber-Physical Systems
  - [Suh et al. - 2014 - Applied Cyber-Physical Systems.pdf, Applied Cyber-Physical Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\CPS\Suh et al. - 2014 - Applied Cyber-Physical Systems.pdf]
 [INFO] Total PDFs found in CPS: 13
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Cryptography ...
-  - The Manga Guide To Cryptography (2018)
-[WARNING] No attachments found for item: The Manga Guide To Cryptography (2018)
-  - Code-based cryptography
  - [Overbeck and Sendrier - 2009 - Code-based cryptography.pdf, Code-based cryptography] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Overbeck and Sendrier - 2009 - Code-based cryptography.pdf]
-  - Cryptographic and information security: approaches for images and videos
  - [Ramakrishnan - 2019 - Cryptographic and information security approaches for images and videos.pdf, Cryptographic and information security: approaches for images and videos] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Ramakrishnan - 2019 - Cryptographic and information security approaches for images and videos.pdf]
-  - Cryptography: An Introduction (3rd Edition)
  - [Smart - Cryptography An Introduction (3rd Edition).pdf, Cryptography: An Introduction (3rd Edition)] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Smart - Cryptography An Introduction (3rd Edition).pdf]
-  - Cryptography for dummies
  - [Cobb - 2004 - Cryptography for dummies.pdf, Cryptography for dummies] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Cobb - 2004 - Cryptography for dummies.pdf]
-  - Advances of DNA computing in cryptography
  - [Namasudra and Deka - 2019 - Advances of DNA computing in cryptography.pdf, Advances of DNA computing in cryptography] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Cryptography\Namasudra and Deka - 2019 - Advances of DNA computing in cryptography.pdf]
 [INFO] Total PDFs found in Cryptography: 5
 
  ---------------------------------------------------------------
 [INFO] Processing collection: DevOps&Docker&Kubernetes ...
-  - AnsibleWorksQuickStart
-[WARNING] No attachments found for item: AnsibleWorksQuickStart
-  - Application Lifecycle on AWS
-[WARNING] No attachments found for item: Application Lifecycle on AWS
-  - aws-cli ebook
-[WARNING] No attachments found for item: aws-cli ebook
-  - Azure DevOps
-[WARNING] No attachments found for item: Azure DevOps
-  - Azure Fundamentals
-[WARNING] No attachments found for item: Azure Fundamentals
-  - CKAD preparation
-[WARNING] No attachments found for item: CKAD preparation
-  - Container with docker and k8s
-[WARNING] No attachments found for item: Container with docker and k8s
-  - DAY_ONE_AMAZON WEB SERVICES
-[WARNING] No attachments found for item: DAY_ONE_AMAZON WEB SERVICES
-  - Deploy on AWS-Gitlab
-[WARNING] No attachments found for item: Deploy on AWS-Gitlab
-  - Developing with Docker
-[WARNING] No attachments found for item: Developing with Docker
-  - Devops Tools Guide
-[WARNING] No attachments found for item: Devops Tools Guide
-  - Docker - Creating Structured Containers
-[WARNING] No attachments found for item: Docker - Creating Structured Containers
-  - Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic
-[WARNING] No attachments found for item: Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic
-  - Docker Deep Dive
-[WARNING] No attachments found for item: Docker Deep Dive
-  - Docker QnA vijay
-[WARNING] No attachments found for item: Docker QnA vijay
-  - Docker Tutorial - Anthony Baire
-[WARNING] No attachments found for item: Docker Tutorial - Anthony Baire
-  - Docker Tutorial - tutorialspoint.com
-[WARNING] No attachments found for item: Docker Tutorial - tutorialspoint.com
-  - docker-doc-cn
-[WARNING] No attachments found for item: docker-doc-cn
-  - Git Interview Questions
-[WARNING] No attachments found for item: Git Interview Questions
-  - GIT notes for professionals
-[WARNING] No attachments found for item: GIT notes for professionals
-  - GitHub.Git.Cheatsheet
-[WARNING] No attachments found for item: GitHub.Git.Cheatsheet
-  - IaC_Terraform
-[WARNING] No attachments found for item: IaC_Terraform
-  - Important DevOps Interview Questions
-[WARNING] No attachments found for item: Important DevOps Interview Questions
-  - Intro to Docker and Swarm - Vikram
-[WARNING] No attachments found for item: Intro to Docker and Swarm - Vikram
-  - Kubernetes Cheat Sheet
-[WARNING] No attachments found for item: Kubernetes Cheat Sheet
-  - Kubernetes For Everyone
-[WARNING] No attachments found for item: Kubernetes For Everyone
-  - Kubernetes in Action
-[WARNING] No attachments found for item: Kubernetes in Action
-  - Kubernetes Up and Running, 3rd Edition
-[WARNING] No attachments found for item: Kubernetes Up and Running, 3rd Edition
-  - Learning Docker
-[WARNING] No attachments found for item: Learning Docker
-  - Learning Groovy
-[WARNING] No attachments found for item: Learning Groovy
-  - LICENSE
-[WARNING] No attachments found for item: LICENSE
-  - load balancing in th cloud
-[WARNING] No attachments found for item: load balancing in th cloud
-  - Native Docker Clustering with Swarm
-[WARNING] No attachments found for item: Native Docker Clustering with Swarm
-  - Pro Bash Programming
-[WARNING] No attachments found for item: Pro Bash Programming
-  - Pro Docker
-[WARNING] No attachments found for item: Pro Docker
-  - Pro_Docker
-[WARNING] No attachments found for item: Pro_Docker
-  - Python for cloud
-[WARNING] No attachments found for item: Python for cloud
-  - python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697
-[WARNING] No attachments found for item: python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697
-  - PythonNotesForProfessionals
-[WARNING] No attachments found for item: PythonNotesForProfessionals
-  - Security Practices EKS
-[WARNING] No attachments found for item: Security Practices EKS
-  - State of DevOps 2021
-[WARNING] No attachments found for item: State of DevOps 2021
-  - terraform-cheatsheet-1
-[WARNING] No attachments found for item: terraform-cheatsheet-1
-  - The Docker Book - 2018
-[WARNING] No attachments found for item: The Docker Book - 2018
-  - The Docker Book - James Turnbull - v17.03.0
-[WARNING] No attachments found for item: The Docker Book - James Turnbull - v17.03.0
-  - the-definitive-kubectl-cheatsheet
-[WARNING] No attachments found for item: the-definitive-kubectl-cheatsheet
-  - Top 200 questions DevOps
-[WARNING] No attachments found for item: Top 200 questions DevOps
-  - Using_Docker
-[WARNING] No attachments found for item: Using_Docker
-  - wavestone devops
-[WARNING] No attachments found for item: wavestone devops
-  - 1622257225661
-[WARNING] No attachments found for item: 1622257225661
-  - Ansible Best Practices
-[WARNING] No attachments found for item: Ansible Best Practices
-  - Ansible: up & running: automating configuration management and deployment the easy way
  - [Hochstein - 2015 - Ansible up & running automating configuration management and deployment the easy way.pdf, Ansible: up & running: automating configuration management and deployment the easy way] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hochstein - 2015 - Ansible up & running automating configuration management and deployment the easy way.pdf]
-  - Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure
  - [Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf, Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf]
-  - API-Driven DevOps
  - [API-Driven DevOps.pdf, API-Driven DevOps] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\API-Driven DevOps.pdf]
-  - Borg, Omega, and Kubernetes
  - [Burns et al. - 2016 - Borg, Omega, and Kubernetes.pdf, Borg, Omega, and Kubernetes] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Burns et al. - 2016 - Borg, Omega, and Kubernetes.pdf]
-  - Build your own PaaS with docker: create, modify, and run your own PaaS with modularized containers using docker
  - [Hane - 2015 - Build your own PaaS with docker create, modify, and run your own PaaS with modularized containers u.pdf, Build your own PaaS with docker: create, modify, and run your own PaaS with modularized containers using docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hane - 2015 - Build your own PaaS with docker create, modify, and run your own PaaS with modularized containers u.pdf]
-  - Building an Enterprise Cloud For Dummies®, Tintri Special Edition
  - [Miller - 2017 - Building an Enterprise Cloud For Dummies®, Tintri Special Edition.pdf, Building an Enterprise Cloud For Dummies®, Tintri Special Edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Miller - 2017 - Building an Enterprise Cloud For Dummies®, Tintri Special Edition.pdf]
-  - CI/CD ON AMAZON WEB SERVICES (AWS)
  - [Shanmugasundaram - CICD ON AMAZON WEB SERVICES (AWS).pdf, CI/CD ON AMAZON WEB SERVICES (AWS)] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shanmugasundaram - CICD ON AMAZON WEB SERVICES (AWS).pdf]
-  - Cloud Native DevOps with Kubernetes
  - [Arundel and Domingus - Cloud Native DevOps with Kubernetes.pdf, Cloud Native DevOps with Kubernetes] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Arundel and Domingus - Cloud Native DevOps with Kubernetes.pdf]
-  - Container Networking
  - [Hausenblas - Container Networking.pdf, Container Networking] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hausenblas - Container Networking.pdf]
-  - Participants and reviewers:
  - [Gossman et al. - Participants and reviewers.pdf, Participants and reviewers:] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Gossman et al. - Participants and reviewers.pdf]
-  - Container Networking
  - [Hausenblas - Container Networking.pdf, Container Networking] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hausenblas - Container Networking.pdf]
-  - containers-on-aws
  - [2019 - containers-on-aws.pdf, containers-on-aws] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\2019 - containers-on-aws.pdf]
-  - Containers For Dummies®, HPE and Docker Special Edition
  - [Lowe - 2017 - Containers For Dummies®, HPE and Docker Special Edition.pdf, Containers For Dummies®, HPE and Docker Special Edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Lowe - 2017 - Containers For Dummies®, HPE and Docker Special Edition.pdf]
-  - CoreOS essentials: develop effective computing networks to deploy your applications and servers using CoreOS
  - [Mocevicius - 2015 - CoreOS essentials develop effective computing networks to deploy your applications and servers usin.pdf, CoreOS essentials: develop effective computing networks to deploy your applications and servers using CoreOS] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Mocevicius - 2015 - CoreOS essentials develop effective computing networks to deploy your applications and servers usin.pdf]
-  - CoreOS in Action: Running Applications on Container Linux
  - [Bailey - 2017 - CoreOS in Action Running Applications on Container Linux.pdf, CoreOS in Action: Running Applications on Container Linux] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Bailey - 2017 - CoreOS in Action Running Applications on Container Linux.pdf]
-  - Deploying with JRuby 9k
  - [Kutner - Deploying with JRuby 9k.pdf, Deploying with JRuby 9k] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kutner - Deploying with JRuby 9k.pdf]
-  - DevOps: Puppet, Docker, and Kubernetes: get hands-on recipes to automate and manage Linux containers with the Docker 1.6 environment and jump-start your Puppet development
  - [Uphill et al. - 2017 - DevOps Puppet, Docker, and Kubernetes get hands-on recipes to automate and manage Linux containers.pdf, DevOps: Puppet, Docker, and Kubernetes: get hands-on recipes to automate and manage Linux containers with the Docker 1.6 environment and jump-start your Puppet development] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Uphill et al. - 2017 - DevOps Puppet, Docker, and Kubernetes get hands-on recipes to automate and manage Linux containers.pdf]
-  - DevOps in Practice
  - [Reed - DevOps in Practice.pdf, DevOps in Practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Reed - DevOps in Practice.pdf]
-  - DevOps in Python: Infrastructure as Python
  - [Zadka - 2019 - DevOps in Python Infrastructure as Python.pdf, DevOps in Python: Infrastructure as Python] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Zadka - 2019 - DevOps in Python Infrastructure as Python.pdf]
-  - DevOps-Notes Documentation
  - [Hegde - DevOps-Notes Documentation.pdf, DevOps-Notes Documentation] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hegde - DevOps-Notes Documentation.pdf]
-  - The devOps handbook: how to create world-class agility, reliability, & security in technology organizations
  - [Kim et al. - 2016 - The devOps handbook how to create world-class agility, reliability, & security in technology organi.pdf, The devOps handbook: how to create world-class agility, reliability, & security in technology organizations] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kim et al. - 2016 - The devOps handbook how to create world-class agility, reliability, & security in technology organi.pdf]
-  - Docker bootcamp: less is more with Docker
  - [McKendrick - 2017 - Docker bootcamp less is more with Docker.pdf, Docker bootcamp: less is more with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\McKendrick - 2017 - Docker bootcamp less is more with Docker.pdf]
-  - A very informal introduction to Docker
  - [Galatolo - A very informal introduction to Docker.pdf, A very informal introduction to Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Galatolo - A very informal introduction to Docker.pdf]
-  - Docker cookbook
  - [Goasguen - 2015 - Docker cookbook.pdf, Docker cookbook] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Goasguen - 2015 - Docker cookbook.pdf]
-  - Docker cookbook: over 100 practical and insightful recipes to build distributedapplications with Docker, second edition
  - [Cochrane et al. - 2018 - Docker cookbook over 100 practical and insightful recipes to build distributedapplications with Doc.pdf, Docker cookbook: over 100 practical and insightful recipes to build distributedapplications with Docker, second edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Cochrane et al. - 2018 - Docker cookbook over 100 practical and insightful recipes to build distributedapplications with Doc.pdf]
-  - Docker cookbook: 80 hands-on recipes to efficiently work with the Docker 1.6 environment on Linux
  - [Khare - 2015 - Docker cookbook 80 hands-on recipes to efficiently work with the Docker 1.6 environment on Linux.pdf, Docker cookbook: 80 hands-on recipes to efficiently work with the Docker 1.6 environment on Linux] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Khare - 2015 - Docker cookbook 80 hands-on recipes to efficiently work with the Docker 1.6 environment on Linux.pdf]
-  - Zero to Docker in a single book!
  - [Poulton - Zero to Docker in a single book!.pdf, Zero to Docker in a single book!] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Poulton - Zero to Docker in a single book!.pdf]
-  - Docker for Data Science
  - [Cook - 2017 - Docker for Data Science.pdf, Docker for Data Science] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Cook - 2017 - Docker for Data Science.pdf]
-  - Docker for Developers
  - [Tankersley - Docker for Developers.pdf, Docker for Developers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Tankersley - Docker for Developers.pdf]
-  - Docker for Sysadmins: Linux Windows VMware
  - [Poulton - Docker for Sysadmins Linux Windows VMware.pdf, Docker for Sysadmins: Linux Windows VMware] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Poulton - Docker for Sysadmins Linux Windows VMware.pdf]
-  - Docker high performance: master performance enhancement practices for Docker, and unlock faster and more efficient container deployment that will improve your development workflow
  - [Espinosa - 2016 - Docker high performance master performance enhancement practices for Docker, and unlock faster and.pdf, Docker high performance: master performance enhancement practices for Docker, and unlock faster and more efficient container deployment that will improve your development workflow] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Espinosa - 2016 - Docker high performance master performance enhancement practices for Docker, and unlock faster and.pdf]
-  - Docker in action
  - [Nickoloff - 2016 - Docker in action.pdf, Docker in action] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Nickoloff - 2016 - Docker in action.pdf]
-  - Docker in practice
  - [Miell and Sayers - 2016 - Docker in practice.pdf, Docker in practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Miell and Sayers - 2016 - Docker in practice.pdf]
-  - Docker in Production: Lessons from the Trenches
  - [Cormack - 2015 - Docker in Production Lessons from the Trenches.pdf, Docker in Production: Lessons from the Trenches] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Cormack - 2015 - Docker in Production Lessons from the Trenches.pdf]
-  - Docker Management Design Patterns
  - [Vohra - 2017 - Docker Management Design Patterns.pdf, Docker Management Design Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Vohra - 2017 - Docker Management Design Patterns.pdf]
-  - Docker networking cookbook: 60 practical recipes that help you gain expertise with Docker networking and understand the underlying constructs that make it all work
  - [Langemak - 2016 - Docker networking cookbook 60 practical recipes that help you gain expertise with Docker networking.pdf, Docker networking cookbook: 60 practical recipes that help you gain expertise with Docker networking and understand the underlying constructs that make it all work] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Langemak - 2016 - Docker networking cookbook 60 practical recipes that help you gain expertise with Docker networking.pdf]
-  - Docker on windows: from 101 to production with docker on windows
  - [Stoneman - 2017 - Docker on windows from 101 to production with docker on windows.pdf, Docker on windows: from 101 to production with docker on windows] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Stoneman - 2017 - Docker on windows from 101 to production with docker on windows.pdf]
-  - Docker orchestration a concise, fast-paced guide to orchestrating and deploying scalable services with docker
  - [Smith - 2017 - Docker orchestration a concise, fast-paced guide to orchestrating and deploying scalable services wi.pdf, Docker orchestration a concise, fast-paced guide to orchestrating and deploying scalable services with docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Smith - 2017 - Docker orchestration a concise, fast-paced guide to orchestrating and deploying scalable services wi.pdf]
-  - Docker: up and running
  - [Matthias and Kane - 2015 - Docker up and running.pdf, Docker: up and running] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Matthias and Kane - 2015 - Docker up and running.pdf]
-  - Docker cookbook
  - [Goasguen - 2015 - Docker cookbook.pdf, Docker cookbook] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Goasguen - 2015 - Docker cookbook.pdf]
-  - Docker in action
  - [Nickoloff - 2016 - Docker in action.pdf, Docker in action] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Nickoloff - 2016 - Docker in action.pdf]
-  - Docker in practice
  - [Miell and Sayers - 2016 - Docker in practice.pdf, Docker in practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Miell and Sayers - 2016 - Docker in practice.pdf]
-  - Essential Docker for ASP.NET Core MVC
  - [Freeman - 2017 - Essential Docker for ASP.NET Core MVC.pdf, Essential Docker for ASP.NET Core MVC] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Freeman - 2017 - Essential Docker for ASP.NET Core MVC.pdf]
-  - Extending Docker: master the art of making Docker more extensible, composable, and modular by leveraging plugins and other supporting tools
  - [McKendrick - 2016 - Extending Docker master the art of making Docker more extensible, composable, and modular by levera.pdf, Extending Docker: master the art of making Docker more extensible, composable, and modular by leveraging plugins and other supporting tools] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\McKendrick - 2016 - Extending Docker master the art of making Docker more extensible, composable, and modular by levera.pdf]
-  - Extending Docker: master the art of making Docker more extensible, composable, and modular by leveraging plugins and other supporting tools
  - [McKendrick - 2016 - Extending Docker master the art of making Docker more extensible, composable, and modular by levera.pdf, Extending Docker: master the art of making Docker more extensible, composable, and modular by leveraging plugins and other supporting tools] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\McKendrick - 2016 - Extending Docker master the art of making Docker more extensible, composable, and modular by levera.pdf]
-  - Getting started with Kubernetes: harness the power of Kubernetes to manage Docker deployments with ease, second edition
  - [Baier - 2017 - Getting started with Kubernetes harness the power of Kubernetes to manage Docker deployments with e.pdf, Getting started with Kubernetes: harness the power of Kubernetes to manage Docker deployments with ease, second edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Baier - 2017 - Getting started with Kubernetes harness the power of Kubernetes to manage Docker deployments with e.pdf]
-  - Getting started with OpenShift
  - [Pousty and Miller - 2014 - Getting started with OpenShift.pdf, Getting started with OpenShift] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Pousty and Miller - 2014 - Getting started with OpenShift.pdf]
-  - Hands-on Kubernetes on Azure: use Azure Kubernetes Service to automate management, scaling, and deployment of containerized applications
  - [Franssens et al. - 2021 - Hands-on Kubernetes on Azure use Azure Kubernetes Service to automate management, scaling, and depl.pdf, Hands-on Kubernetes on Azure: use Azure Kubernetes Service to automate management, scaling, and deployment of containerized applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Franssens et al. - 2021 - Hands-on Kubernetes on Azure use Azure Kubernetes Service to automate management, scaling, and depl.pdf]
-  - Infrastructure as Code
  - [Naziris - Infrastructure as Code.pdf, Infrastructure as Code] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Naziris - Infrastructure as Code.pdf]
-  - Agile for dummies IBM limited edition
  - [Ambler and Holittza - 2012 - Agile for dummies IBM limited edition.pdf, Agile for dummies IBM limited edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Ambler and Holittza - 2012 - Agile for dummies IBM limited edition.pdf]
-  - Implementing DevOps on AWS
-  - Implementing OpenShift: a fast-paced, practical guide for using OpenShift to deploy your own open source Platform-as-a-Service
  - [Miller - 2013 - Implementing OpenShift a fast-paced, practical guide for using OpenShift to deploy your own open so.pdf, Implementing OpenShift: a fast-paced, practical guide for using OpenShift to deploy your own open source Platform-as-a-Service] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Miller - 2013 - Implementing OpenShift a fast-paced, practical guide for using OpenShift to deploy your own open so.pdf]
-  - Infrastructure as code (IAC) cookbook: over 90 practical, actionable recipes to automate, test and manage your infrastructure quickly and effectively
  - [Jourdan and Pomès - 2017 - Infrastructure as code (IAC) cookbook over 90 practical, actionable recipes to automate, test and m.pdf, Infrastructure as code (IAC) cookbook: over 90 practical, actionable recipes to automate, test and manage your infrastructure quickly and effectively] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Jourdan and Pomès - 2017 - Infrastructure as code (IAC) cookbook over 90 practical, actionable recipes to automate, test and m.pdf]
-  - Email: Mohamed.ElEmam.Hussin@gmail.com
  - [ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf, Email: Mohamed.ElEmam.Hussin@gmail.com] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf]
  - [ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf, Email: Mohamed.ElEmam.Hussin@gmail.com] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\ElEmam - Email Mohamed.ElEmam.Hussin@gmail.com.pdf]
-  - Email: Mohamed.ElEmam.Hussin@gmail.com
-[WARNING] No attachments found for item: Email: Mohamed.ElEmam.Hussin@gmail.com
-  - Kubernetes Microservices with Docker
  - [Vohra - 2016 - Kubernetes Microservices with Docker.pdf, Kubernetes Microservices with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Vohra - 2016 - Kubernetes Microservices with Docker.pdf]
-  - Kubernetes Microservices with Docker
  - [Vohra - 2016 - Kubernetes Microservices with Docker.pdf, Kubernetes Microservices with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Vohra - 2016 - Kubernetes Microservices with Docker.pdf]
-  - Kubernetes Patterns
  - [Ibryam and Huß - Kubernetes Patterns.pdf, Kubernetes Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Ibryam and Huß - Kubernetes Patterns.pdf]
  - [Ibryam and Huß - Kubernetes Patterns.pdf, Kubernetes Patterns] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Ibryam and Huß - Kubernetes Patterns.pdf]
-  - Learn Docker: fundamentals of Docker 18.x: everything you need to know about containerizing your applications and running them in production
  - [Schenker - 2018 - Learn Docker fundamentals of Docker 18.x everything you need to know about containerizing your app.pdf, Learn Docker: fundamentals of Docker 18.x: everything you need to know about containerizing your applications and running them in production] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Schenker - 2018 - Learn Docker fundamentals of Docker 18.x everything you need to know about containerizing your app.pdf]
-  - Learning Docker: faster app development and deployment with Docker containers, second edition
  - [Chelladhurai et al. - 2017 - Learning Docker faster app development and deployment with Docker containers, second edition.pdf, Learning Docker: faster app development and deployment with Docker containers, second edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Chelladhurai et al. - 2017 - Learning Docker faster app development and deployment with Docker containers, second edition.pdf]
-  - Learning Windows Server Containers: build and deploy high-quality portable apps faster
  - [Machiraju - 2017 - Learning Windows Server Containers build and deploy high-quality portable apps faster.pdf, Learning Windows Server Containers: build and deploy high-quality portable apps faster] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Machiraju - 2017 - Learning Windows Server Containers build and deploy high-quality portable apps faster.pdf]
-  - Learning Docker Networking
  - [Dua - Learning Docker Networking.pdf, Learning Docker Networking] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Dua - Learning Docker Networking.pdf]
-  - Learning OpenShift: leverage the power of cloud computing using OpenShift Online to design, build, and deploy scalable applications
  - [Shipley - 2014 - Learning OpenShift leverage the power of cloud computing using OpenShift Online to design, build, a.pdf, Learning OpenShift: leverage the power of cloud computing using OpenShift Online to design, build, and deploy scalable applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shipley - 2014 - Learning OpenShift leverage the power of cloud computing using OpenShift Online to design, build, a.pdf]
-  - Linux shell scripting cookbook: solve real-world shell skripting problems with over 110 simple but incredibly effective recipes ; [quick answers to common problems]
  - [Lakshman - 2011 - Linux shell scripting cookbook solve real-world shell skripting problems with over 110 simple but i.pdf, Linux shell scripting cookbook: solve real-world shell skripting problems with over 110 simple but incredibly effective recipes ; [quick answers to common problems]] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Lakshman - 2011 - Linux shell scripting cookbook solve real-world shell skripting problems with over 110 simple but i.pdf]
-  - Making The Most of Helm 3
  - [Garfield and Baker - Making The Most of Helm 3.pdf, Making The Most of Helm 3] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Garfield and Baker - Making The Most of Helm 3.pdf]
-  - Mastering Core OS: Create production CoreOS clusters and master the art of deploying Container-based microservices
  - [Makam - 2016 - Mastering Core OS Create production CoreOS clusters and master the art of deploying Container-based.pdf, Mastering Core OS: Create production CoreOS clusters and master the art of deploying Container-based microservices] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Makam - 2016 - Mastering Core OS Create production CoreOS clusters and master the art of deploying Container-based.pdf]
-  - Mastering Docker: rethink what's possible with Docker - become an expert in the innovative containerization tool to unlock new opportunities in the way you use and deploy software
  - [Gallagher - 2015 - Mastering Docker rethink what's possible with Docker - become an expert in the innovative container.pdf, Mastering Docker: rethink what's possible with Docker - become an expert in the innovative containerization tool to unlock new opportunities in the way you use and deploy software] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Gallagher - 2015 - Mastering Docker rethink what's possible with Docker - become an expert in the innovative container.pdf]
-  - Mastering Kubernetes: large scale container deployment and management
  - [Sayfan - 2017 - Mastering Kubernetes large scale container deployment and management.pdf, Mastering Kubernetes: large scale container deployment and management] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Sayfan - 2017 - Mastering Kubernetes large scale container deployment and management.pdf]
-  - Mastering NGINX: an in-depth guide to configuring NGINX for any sitation, incl. numerous examples and reference tables describing each directive
  - [Aivaliotis - 2013 - Mastering NGINX an in-depth guide to configuring NGINX for any sitation, incl. numerous examples an.pdf, Mastering NGINX: an in-depth guide to configuring NGINX for any sitation, incl. numerous examples and reference tables describing each directive] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Aivaliotis - 2013 - Mastering NGINX an in-depth guide to configuring NGINX for any sitation, incl. numerous examples an.pdf]
-  - Microservices: Building Scalable Software
  - [Sharma et al. - 2017 - Microservices Building Scalable Software.pdf, Microservices: Building Scalable Software] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Sharma et al. - 2017 - Microservices Building Scalable Software.pdf]
-  - Microservices & docker: from theory to practice
  - [Cutsem et al. - 2016 - Microservices & docker from theory to practice.pdf, Microservices & docker: from theory to practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Cutsem et al. - 2016 - Microservices & docker from theory to practice.pdf]
-  - Monitoring Docker: monitor your Docker containers and their apps using various native and third-party tools with the help of this exclusive guide!
  - [McKendrick - 2015 - Monitoring Docker monitor your Docker containers and their apps using various native and third-part.pdf, Monitoring Docker: monitor your Docker containers and their apps using various native and third-party tools with the help of this exclusive guide!] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\McKendrick - 2015 - Monitoring Docker monitor your Docker containers and their apps using various native and third-part.pdf]
-  - Monitoring Docker
  - [McKendrick - Monitoring Docker.pdf, Monitoring Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\McKendrick - Monitoring Docker.pdf]
-  - Nginx essentials: excel in Nginx quickly by learning to use its most essential features in real-life applications
  - [Kholodkov - 2015 - Nginx essentials excel in Nginx quickly by learning to use its most essential features in real-life.pdf, Nginx essentials: excel in Nginx quickly by learning to use its most essential features in real-life applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Kholodkov - 2015 - Nginx essentials excel in Nginx quickly by learning to use its most essential features in real-life.pdf]
-  - Nginx module extension: customize and regulate the robust Nginx web server, and write your own Nginx modules efficiently
  - [Dar - 2013 - Nginx module extension customize and regulate the robust Nginx web server, and write your own Nginx.pdf, Nginx module extension: customize and regulate the robust Nginx web server, and write your own Nginx modules efficiently] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Dar - 2013 - Nginx module extension customize and regulate the robust Nginx web server, and write your own Nginx.pdf]
-  - Ansible for DevOps: Server and Configuration Management for Humans
  - [Asim - 2023 - Ansible for DevOps Server and Configuration Management for Humans.pdf, Ansible for DevOps: Server and Configuration Management for Humans] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Asim - 2023 - Ansible for DevOps Server and Configuration Management for Humans.pdf]
-  - OpenShift in action
  - [Duncan and Osborne - 2018 - OpenShift in action.pdf, OpenShift in action] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Duncan and Osborne - 2018 - OpenShift in action.pdf]
-  - Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently
  - [Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf, Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf]
  - [Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf, Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Holla - 2015 - Orchestrating Docker manage and deploy Docker services to containerize applications efficiently.pdf]
-  - Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently
-[WARNING] No attachments found for item: Orchestrating Docker: manage and deploy Docker services to containerize applications efficiently
-  - Kubernetes Patterns
-[WARNING] No attachments found for item: Kubernetes Patterns
-  - Kubernetes: Up and Running
  - [Burns et al. - Kubernetes Up and Running.pdf, Kubernetes: Up and Running] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Burns et al. - Kubernetes Up and Running.pdf]
-  - Practical DevOps: harness the power of DevOps to boost your skill set and make your IT organization perform better
  - [Verona - 2016 - Practical DevOps harness the power of DevOps to boost your skill set and make your IT organization.pdf, Practical DevOps: harness the power of DevOps to boost your skill set and make your IT organization perform better] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Verona - 2016 - Practical DevOps harness the power of DevOps to boost your skill set and make your IT organization.pdf]
-  - Practical Docker with Python: Build, Release and Distribute your Python App with Docker
  - [Bhat - 2018 - Practical Docker with Python Build, Release and Distribute your Python App with Docker.pdf, Practical Docker with Python: Build, Release and Distribute your Python App with Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Bhat - 2018 - Practical Docker with Python Build, Release and Distribute your Python App with Docker.pdf]
-  - Puppet for containerization: learn about configuration management and gain complete control of your Docker containers using Puppet
  - [Coulton - 2016 - Puppet for containerization learn about configuration management and gain complete control of your.pdf, Puppet for containerization: learn about configuration management and gain complete control of your Docker containers using Puppet] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Coulton - 2016 - Puppet for containerization learn about configuration management and gain complete control of your.pdf]
-  - Securing Docker: learn how to secure your Docker environment and keep your environments secure irrespective of the threats out there
  - [Gallagher - 2016 - Securing Docker learn how to secure your Docker environment and keep your environments secure irres.pdf, Securing Docker: learn how to secure your Docker environment and keep your environments secure irrespective of the threats out there] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Gallagher - 2016 - Securing Docker learn how to secure your Docker environment and keep your environments secure irres.pdf]
-  - Securing Docker: learn how to secure your Docker environment and keep your environments secure irrespective of the threats out there
  - [Gallagher - 2016 - Securing Docker learn how to secure your Docker environment and keep your environments secure irres.pdf, Securing Docker: learn how to secure your Docker environment and keep your environments secure irrespective of the threats out there] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Gallagher - 2016 - Securing Docker learn how to secure your Docker environment and keep your environments secure irres.pdf]
-  - Shell Scripting: Expert Recipes for Linux, Bash, and More
  - [Parker - Shell Scripting Expert Recipes for Linux, Bash, and More.pdf, Shell Scripting: Expert Recipes for Linux, Bash, and More] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Parker - Shell Scripting Expert Recipes for Linux, Bash, and More.pdf]
-  - Site Reliability Engineering
  - [Beyer et al. - Site Reliability Engineering.pdf, Site Reliability Engineering] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Beyer et al. - Site Reliability Engineering.pdf]
-  - The Terraform Book
  - [Turnbull - The Terraform Book.pdf, The Terraform Book] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Turnbull - The Terraform Book.pdf]
-  - The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices"
  - [Nofal - 2023 - The DevOps 2.0 Toolkit Automating the Continuous Deployment Pipeline with Containerized Microservic.pdf, The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices"] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Nofal - 2023 - The DevOps 2.0 Toolkit Automating the Continuous Deployment Pipeline with Containerized Microservic.pdf]
-  - The DevOps 2.1 toolkit: Docker Swarm: building, testing, deploying, and monitoring services inside Docker Swarm clusters
  - [Farcic - 2017 - The DevOps 2.1 toolkit Docker Swarm building, testing, deploying, and monitoring services inside D.pdf, The DevOps 2.1 toolkit: Docker Swarm: building, testing, deploying, and monitoring services inside Docker Swarm clusters] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Farcic - 2017 - The DevOps 2.1 toolkit Docker Swarm building, testing, deploying, and monitoring services inside D.pdf]
-  - The Kubernetes Book
  - [Poulton - The Kubernetes Book.pdf, The Kubernetes Book] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Poulton - The Kubernetes Book.pdf]
-  - The New Stack CI/CD with Kubernetes
  - [Williams et al. - The New Stack CICD with Kubernetes.pdf, The New Stack CI/CD with Kubernetes] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Williams et al. - The New Stack CICD with Kubernetes.pdf]
-  - What You Need to Know about Docker
  - [Gallagher - What You Need to Know about Docker.pdf, What You Need to Know about Docker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Gallagher - What You Need to Know about Docker.pdf]
-  - Linux® Command Line and Shell Scripting Bible
  - [Blum and Bresnahan - 2015 - Linux® Command Line and Shell Scripting Bible.pdf, Linux® Command Line and Shell Scripting Bible] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Blum and Bresnahan - 2015 - Linux® Command Line and Shell Scripting Bible.pdf]
-  - Advanced Microservices
  - [Hunter Ii - 2017 - Advanced Microservices.pdf, Advanced Microservices] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hunter Ii - 2017 - Advanced Microservices.pdf]
-  - Ansible Configuration Management
  - [Hall - 2015 - Ansible Configuration Management.pdf, Ansible Configuration Management] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Hall - 2015 - Ansible Configuration Management.pdf]
-  - Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure
  - [Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf, Ansible playbook essentials: design automation blueprints using Ansible's playbooks to orchestrate and manage your multitier infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\DevOps&Docker&Kubernetes\Shah - 2015 - Ansible playbook essentials design automation blueprints using Ansible's playbooks to orchestrate a.pdf]
 [INFO] Total PDFs found in DevOps&Docker&Kubernetes: 97
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Distributed ...
-  - Distributed Real-Time Systems: Theory and Practice
  - [Erciyes - 2019 - Distributed Real-Time Systems Theory and Practice.pdf, Distributed Real-Time Systems: Theory and Practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Distributed\Erciyes - 2019 - Distributed Real-Time Systems Theory and Practice.pdf]
-  - Distributed Optimization in Networked Systems: Algorithms and Applications
  - [Lü et al. - 2023 - Distributed Optimization in Networked Systems Algorithms and Applications.pdf, Distributed Optimization in Networked Systems: Algorithms and Applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Distributed\Lü et al. - 2023 - Distributed Optimization in Networked Systems Algorithms and Applications.pdf]
-  - Distributed Systems: Concepts and Design
  - [Coulouris - Distributed Systems Concepts and Design.pdf, Distributed Systems: Concepts and Design] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Distributed\Coulouris - Distributed Systems Concepts and Design.pdf]
 [INFO] Total PDFs found in Distributed: 3
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Embedded ...
-  - Introduction to embedded systems: a cyber-physical systems approach
  - [Lee and Seshia - 2015 - Introduction to embedded systems a cyber-physical systems approach.pdf, Introduction to embedded systems: a cyber-physical systems approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Embedded\Lee and Seshia - 2015 - Introduction to embedded systems a cyber-physical systems approach.pdf]
-  - Embedded systems architecture: a comprehensive guide for engineers and programmers
  - [Noergaard - 2005 - Embedded systems architecture a comprehensive guide for engineers and programmers.pdf, Embedded systems architecture: a comprehensive guide for engineers and programmers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Embedded\Noergaard - 2005 - Embedded systems architecture a comprehensive guide for engineers and programmers.pdf]
-  - Embedded system design
  - [Marwedel - 2003 - Embedded system design.pdf, Embedded system design] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Embedded\Marwedel - 2003 - Embedded system design.pdf]
-  - Foundations of Embedded Systems
  - [Barkalov et al. - 2019 - Foundations of Embedded Systems.pdf, Foundations of Embedded Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Embedded\Barkalov et al. - 2019 - Foundations of Embedded Systems.pdf]
-  - Programmable logic controllers
  - [Bolton - 2007 - Programmable logic controllers.pdf, Programmable logic controllers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Embedded\Bolton - 2007 - Programmable logic controllers.pdf]
 [INFO] Total PDFs found in Embedded: 5
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Fuzzing&binary ...
-  - Fuzzing: brute force vulnerabilty discovery
  - [Sutton et al. - 2007 - Fuzzing brute force vulnerabilty discovery.pdf, Fuzzing: brute force vulnerabilty discovery] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Fuzzing&binary\Sutton et al. - 2007 - Fuzzing brute force vulnerabilty discovery.pdf]
-  - Fuzzing for software security testing and quality assurance
  - [Takanen et al. - 2008 - Fuzzing for software security testing and quality assurance.pdf, Fuzzing for software security testing and quality assurance] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Fuzzing&binary\Takanen et al. - 2008 - Fuzzing for software security testing and quality assurance.pdf]
-  - Practical binary analysis: build your own Linux tools for binary instrumentation, analysis, and disassembly
  - [Andriesse - 2019 - Practical binary analysis build your own Linux tools for binary instrumentation, analysis, and disa.pdf, Practical binary analysis: build your own Linux tools for binary instrumentation, analysis, and disassembly] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Fuzzing&binary\Andriesse - 2019 - Practical binary analysis build your own Linux tools for binary instrumentation, analysis, and disa.pdf]
 [INFO] Total PDFs found in Fuzzing&binary: 3
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Linux ...
-  - Linux Kernel Development, 3rd Edition
-[WARNING] No attachments found for item: Linux Kernel Development, 3rd Edition
-  - Maximum Linux Security - 2nd Edition
-[WARNING] No attachments found for item: Maximum Linux Security - 2nd Edition
-  - W. Richard Stevens - Unix Network Programming Vol2
-[WARNING] No attachments found for item: W. Richard Stevens - Unix Network Programming Vol2
-  - Wicked Cool Shell Scripts, 2nd Edition
-[WARNING] No attachments found for item: Wicked Cool Shell Scripts, 2nd Edition
-  - bash
-[WARNING] No attachments found for item: bash
-  - Understanding the Linux Kernel: from I/0 ports to process management
  - [Bovet and Cesati - 2001 - Understanding the Linux Kernel from I0 ports to process management.pdf, Understanding the Linux Kernel: from I/0 ports to process management] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Bovet and Cesati - 2001 - Understanding the Linux Kernel from I0 ports to process management.pdf]
-  - Linux® Command Line and Shell Scripting Bible
  - [Blum - Linux® Command Line and Shell Scripting Bible.pdf, Linux® Command Line and Shell Scripting Bible] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Blum - Linux® Command Line and Shell Scripting Bible.pdf]
-  - Penetration testing with the bash shell: make the most of the Bash shell and Kali Linux's command line-based security assessment tools
  - [Makan - 2014 - Penetration testing with the bash shell make the most of the Bash shell and Kali Linux's command li.pdf, Penetration testing with the bash shell: make the most of the Bash shell and Kali Linux's command line-based security assessment tools] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Makan - 2014 - Penetration testing with the bash shell make the most of the Bash shell and Kali Linux's command li.pdf]
-  - A practical guide to Linux commands, editors, and shell programming
  - [Sobell and Helmke - 2018 - A practical guide to Linux commands, editors, and shell programming.pdf, A practical guide to Linux commands, editors, and shell programming] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Sobell and Helmke - 2018 - A practical guide to Linux commands, editors, and shell programming.pdf]
-  - How Linux works: what every superuser should know
  - [Ward - 2015 - How Linux works what every superuser should know.pdf, How Linux works: what every superuser should know] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Ward - 2015 - How Linux works what every superuser should know.pdf]
-  - Kali Linux revealed: mastering the penetration testing distribution
  - [Hertzog et al. - 2017 - Kali Linux revealed mastering the penetration testing distribution.pdf, Kali Linux revealed: mastering the penetration testing distribution] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Hertzog et al. - 2017 - Kali Linux revealed mastering the penetration testing distribution.pdf]
-  - Kali linux social engineering
  - [Patel - 2013 - Kali linux social engineering.pdf, Kali linux social engineering] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Patel - 2013 - Kali linux social engineering.pdf]
-  - Kali Linux wireless penetration testing: master wireless testing techniques to survey and attack wireless networks with Kali Linux
  - [Ramachandran and Buchanan - 2015 - Kali Linux wireless penetration testing master wireless testing techniques to survey and attack wir.pdf, Kali Linux wireless penetration testing: master wireless testing techniques to survey and attack wireless networks with Kali Linux] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Linux\Ramachandran and Buchanan - 2015 - Kali Linux wireless penetration testing master wireless testing techniques to survey and attack wir.pdf]
 [INFO] Total PDFs found in Linux: 8
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Networks ...
-  - mininet-wifi-ebook-preview-EN-20191212
-[WARNING] No attachments found for item: mininet-wifi-ebook-preview-EN-20191212
-  - Queueing_Data_Nets
-[WARNING] No attachments found for item: Queueing_Data_Nets
-  - computer_networks_-_a_tanenbaum_-_5th_edition_0
-[WARNING] No attachments found for item: computer_networks_-_a_tanenbaum_-_5th_edition_0
-  - Mastering Wireshark: analyze data network like a professional by mastering Wireshark, from 0 to 1337
  - [Mishra - 2016 - Mastering Wireshark analyze data network like a professional by mastering Wireshark, from 0 to 1337.pdf, Mastering Wireshark: analyze data network like a professional by mastering Wireshark, from 0 to 1337] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Mishra - 2016 - Mastering Wireshark analyze data network like a professional by mastering Wireshark, from 0 to 1337.pdf]
-  - Network analysis using Wireshark 2 cookbook: practical recipes to analyze and secure your network using Wireshark 2
  - [Nainar et al. - 2018 - Network analysis using Wireshark 2 cookbook practical recipes to analyze and secure your network us.pdf, Network analysis using Wireshark 2 cookbook: practical recipes to analyze and secure your network using Wireshark 2] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Nainar et al. - 2018 - Network analysis using Wireshark 2 cookbook practical recipes to analyze and secure your network us.pdf]
-  - Network scanning cookbook: practical network security using Nmap and Nessus 7
  - [Jetty - 2018 - Network scanning cookbook practical network security using Nmap and Nessus 7.pdf, Network scanning cookbook: practical network security using Nmap and Nessus 7] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Jetty - 2018 - Network scanning cookbook practical network security using Nmap and Nessus 7.pdf]
-  - OpenVPN cookbook: discover over 90 practical and exciting recipes that leverage the power of OpenVPN 2.4 to help you obtain a reliable and secure VPN, second edition
  - [Keijser - 2017 - OpenVPN cookbook discover over 90 practical and exciting recipes that leverage the power of OpenVPN.pdf, OpenVPN cookbook: discover over 90 practical and exciting recipes that leverage the power of OpenVPN 2.4 to help you obtain a reliable and secure VPN, second edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Keijser - 2017 - OpenVPN cookbook discover over 90 practical and exciting recipes that leverage the power of OpenVPN.pdf]
-  - Software defined networks: a comprehensive approach
  - [Gö̈ransson and Black - 2014 - Software defined networks a comprehensive approach.pdf, Software defined networks: a comprehensive approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Gö̈ransson and Black - 2014 - Software defined networks a comprehensive approach.pdf]
-  - Performance Modeling and Design of Computer Systems
  - [Harchol-Balter - Performance Modeling and Design of Computer Systems.pdf, Performance Modeling and Design of Computer Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Harchol-Balter - Performance Modeling and Design of Computer Systems.pdf]
-  - SDN: software defined networks
  - [Nadeau and Gray - 2013 - SDN software defined networks.pdf, SDN: software defined networks] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Nadeau and Gray - 2013 - SDN software defined networks.pdf]
-  - ELEMENTS OF INFORMATION THEORY
  - [Cover and Thomas - ELEMENTS OF INFORMATION THEORY.pdf, ELEMENTS OF INFORMATION THEORY] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Cover and Thomas - ELEMENTS OF INFORMATION THEORY.pdf]
-  - Software Defined Systems: Sensing, Communication and Computation
  - [Zeng et al. - 2020 - Software Defined Systems Sensing, Communication and Computation.pdf, Software Defined Systems: Sensing, Communication and Computation] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Zeng et al. - 2020 - Software Defined Systems Sensing, Communication and Computation.pdf]
-  - Software Defined Networking for Ad Hoc Networks
  - [Ghonge et al. - 2022 - Software Defined Networking for Ad Hoc Networks.pdf, Software Defined Networking for Ad Hoc Networks] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Ghonge et al. - 2022 - Software Defined Networking for Ad Hoc Networks.pdf]
-  - Guide to Security in SDN and NFV: Challenges, Opportunities, and Applications
  - [Zhu et al. - 2017 - Guide to Security in SDN and NFV Challenges, Opportunities, and Applications.pdf, Guide to Security in SDN and NFV: Challenges, Opportunities, and Applications] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Zhu et al. - 2017 - Guide to Security in SDN and NFV Challenges, Opportunities, and Applications.pdf]
-  - SDN and NFV Security: Security Analysis of Software-Defined Networking and Network Function Virtualization
  - [Khondoker - 2018 - SDN and NFV Security Security Analysis of Software-Defined Networking and Network Function Virtuali.pdf, SDN and NFV Security: Security Analysis of Software-Defined Networking and Network Function Virtualization] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Khondoker - 2018 - SDN and NFV Security Security Analysis of Software-Defined Networking and Network Function Virtuali.pdf]
-  - Intelligent Computing and Networking: Proceedings of IC-ICN 2022
  - [Balas et al. - 2023 - Intelligent Computing and Networking Proceedings of IC-ICN 2022.pdf, Intelligent Computing and Networking: Proceedings of IC-ICN 2022] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Balas et al. - 2023 - Intelligent Computing and Networking Proceedings of IC-ICN 2022.pdf]
-  - Computer networking: a top-down approach
  - [Kurose and Ross - 2017 - Computer networking a top-down approach.pdf, Computer networking: a top-down approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Kurose and Ross - 2017 - Computer networking a top-down approach.pdf]
-  - Computer Networking : Principles, Protocols and Practice
  - [Bonaventure - Computer Networking  Principles, Protocols and Practice.pdf, Computer Networking : Principles, Protocols and Practice] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Bonaventure - Computer Networking  Principles, Protocols and Practice.pdf]
-  - Computer networks: a systems approach
  - [Peterson and Davie - 2007 - Computer networks a systems approach.pdf, Computer networks: a systems approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Peterson and Davie - 2007 - Computer networks a systems approach.pdf]
-  - Computer Networks: A Systems Approach
  - [Peterson and Davie - Computer Networks A Systems Approach.pdf, Computer Networks: A Systems Approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Peterson and Davie - Computer Networks A Systems Approach.pdf]
-  - High-performance browser networking
  - [Grigorik - 2013 - High-performance browser networking.pdf, High-performance browser networking] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Grigorik - 2013 - High-performance browser networking.pdf]
-  - Java network programming
  - [Harold - 2014 - Java network programming.pdf, Java network programming] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Networks\Harold - 2014 - Java network programming.pdf]
 [INFO] Total PDFs found in Networks: 19
 
  ---------------------------------------------------------------
 [INFO] Processing collection: OperatingSys&Real-Time ...
-  - Analysis, Estimations, and Applications of Embedded Systems: 6th IFIP TC 10 International Embedded Systems Symposium, IESS 2019, Friedrichshafen, Germany, September 9–11, 2019, Revised Selected Papers
  - [Wehrmeister et al. - 2023 - Analysis, Estimations, and Applications of Embedded Systems 6th IFIP TC 10 International Embedded S.pdf, Analysis, Estimations, and Applications of Embedded Systems: 6th IFIP TC 10 International Embedded Systems Symposium, IESS 2019, Friedrichshafen, Germany, September 9–11, 2019, Revised Selected Papers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\OperatingSys&Real-Time\Wehrmeister et al. - 2023 - Analysis, Estimations, and Applications of Embedded Systems 6th IFIP TC 10 International Embedded S.pdf]
-  - Analysis, Estimations, and Applications of Embedded Systems: 6th IFIP TC 10 International Embedded Systems Symposium, IESS 2019, Friedrichshafen, Germany, September 9–11, 2019, Revised Selected Papers
  - [Wehrmeister et al. - 2023 - Analysis, Estimations, and Applications of Embedded Systems 6th IFIP TC 10 International Embedded S.pdf, Analysis, Estimations, and Applications of Embedded Systems: 6th IFIP TC 10 International Embedded Systems Symposium, IESS 2019, Friedrichshafen, Germany, September 9–11, 2019, Revised Selected Papers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\OperatingSys&Real-Time\Wehrmeister et al. - 2023 - Analysis, Estimations, and Applications of Embedded Systems 6th IFIP TC 10 International Embedded S.pdf]
 [INFO] Total PDFs found in OperatingSys&Real-Time: 2
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Other ...
-  - How to Read a Paper
-[WARNING] No attachments found for item: How to Read a Paper
-  - ReadPaper
-[WARNING] No attachments found for item: ReadPaper
-  - Introduction to Discrete Event Systems
  - [Cassandras and Lafortune - 2021 - Introduction to Discrete Event Systems.pdf, Introduction to Discrete Event Systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Cassandras and Lafortune - 2021 - Introduction to Discrete Event Systems.pdf]
-  - Handbook of Real-Time Computing
  - [Tian and Levy - 2022 - Handbook of Real-Time Computing.pdf, Handbook of Real-Time Computing] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Tian and Levy - 2022 - Handbook of Real-Time Computing.pdf]
-  - The Art of Agile Development
  - [Shore - The Art of Agile Development.pdf, The Art of Agile Development] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Shore - The Art of Agile Development.pdf]
-  - The Science of Biometrics: Security Technology for Identity Verification
  - [Das - 2018 - The Science of Biometrics Security Technology for Identity Verification.pdf, The Science of Biometrics: Security Technology for Identity Verification] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Das - 2018 - The Science of Biometrics Security Technology for Identity Verification.pdf]
-  - Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics
  - [Rossberg - 2019 - Agile Project Management with Azure DevOps Concepts, Templates, and Metrics.pdf, Agile Project Management with Azure DevOps: Concepts, Templates, and Metrics] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Other\Rossberg - 2019 - Agile Project Management with Azure DevOps Concepts, Templates, and Metrics.pdf]
 [INFO] Total PDFs found in Other: 5
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Light&Audio ...
-  - Electronic Projects for Musicians
-[WARNING] No attachments found for item: Electronic Projects for Musicians
-  - How to Design and Build an Analog Synthesizer from Scratch
  - [Lundkvist - How to Design and Build an Analog Synthesizer from Scratch.pdf, How to Design and Build an Analog Synthesizer from Scratch] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light&Audio\Lundkvist - How to Design and Build an Analog Synthesizer from Scratch.pdf]
 [INFO] Total PDFs found in Light&Audio: 1
 
  ---------------------------------------------------------------
 [INFO] Processing collection: ψυχοακουστική ...
-  - iMotions_Guide_EEG_PocketGuide_2016
-[WARNING] No attachments found for item: iMotions_Guide_EEG_PocketGuide_2016
-  - An introduction to the event-related potential technique
  - [Luck - 2014 - An introduction to the event-related potential technique.pdf, An introduction to the event-related potential technique] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Luck - 2014 - An introduction to the event-related potential technique.pdf]
-  - Brain-­Computer Interfacing: An Introduction
  - [Rao - Brain-­Computer Interfacing An Introduction.pdf, Brain-­Computer Interfacing: An Introduction] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Rao - Brain-­Computer Interfacing An Introduction.pdf]
-  - Guide to Brain-Computer Music Interfacing
  - [Miranda and Castet - 2014 - Guide to Brain-Computer Music Interfacing.pdf, Guide to Brain-Computer Music Interfacing] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\ψυχοακουστική\Miranda and Castet - 2014 - Guide to Brain-Computer Music Interfacing.pdf]
 [INFO] Total PDFs found in ψυχοακουστική: 3
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Light ...
-  - basic_principles_lighting
-[WARNING] No attachments found for item: basic_principles_lighting
-  - StageLightingTechnicianHandbook
-[WARNING] No attachments found for item: StageLightingTechnicianHandbook
-  - Stage Lighting Handbook
  - [Reid - 2013 - Stage Lighting Handbook.pdf, Stage Lighting Handbook] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Light\Reid - 2013 - Stage Lighting Handbook.pdf]
 [INFO] Total PDFs found in Light: 1
 
@@ -913,91 +464,48 @@ General
 
  ---------------------------------------------------------------
 [INFO] Processing collection: PenTest&Hack ...
-  - Mastering Kali Linux For Web Penetration Testing (2017)
-[WARNING] No attachments found for item: Mastering Kali Linux For Web Penetration Testing (2017)
-  - Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019)
-[WARNING] No attachments found for item: Rootkits and Bootkits - Reversing Modern Malware And Next Generation Threats (2019)
-  - Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016)
-[WARNING] No attachments found for item: Computer Hacking, Security Testing, Penetration Testing And Basic Security (2016)
-  - Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
-[WARNING] No attachments found for item: Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
-  - Malware, rootkits & botnets: a beginner's guide
  - [Elisan - 2013 - Malware, rootkits & botnets a beginner's guide.pdf, Malware, rootkits & botnets: a beginner's guide] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Elisan - 2013 - Malware, rootkits & botnets a beginner's guide.pdf]
-  - Mastering Kali Linux for advanced penetration testing: secure your network with Kali Linux 2019.1 - the ultimate white hat hackers' toolkit, 3rd edition
  - [Velu and Beggs - 2019 - Mastering Kali Linux for advanced penetration testing secure your network with Kali Linux 2019.1 -.pdf, Mastering Kali Linux for advanced penetration testing: secure your network with Kali Linux 2019.1 - the ultimate white hat hackers' toolkit, 3rd edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Velu and Beggs - 2019 - Mastering Kali Linux for advanced penetration testing secure your network with Kali Linux 2019.1 -.pdf]
-  - Mastering Metasploit: write and implement sophisticated attack vectors in Metasploit using a completely hands-on approach
  - [Jaswal - 2014 - Mastering Metasploit write and implement sophisticated attack vectors in Metasploit using a complet.pdf, Mastering Metasploit: write and implement sophisticated attack vectors in Metasploit using a completely hands-on approach] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Jaswal - 2014 - Mastering Metasploit write and implement sophisticated attack vectors in Metasploit using a complet.pdf]
-  - Penetration testing with Raspberry Pi: construct a hacking arsenal for penetration testers or hacking enthusiasts using Kali Linux on a Raspberry Pi
  - [Muniz and Lakhani - 2015 - Penetration testing with Raspberry Pi construct a hacking arsenal for penetration testers or hackin.pdf, Penetration testing with Raspberry Pi: construct a hacking arsenal for penetration testers or hacking enthusiasts using Kali Linux on a Raspberry Pi] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Muniz and Lakhani - 2015 - Penetration testing with Raspberry Pi construct a hacking arsenal for penetration testers or hackin.pdf]
-  - Practical digital forensics: get started with the art and science of digital forensics with this practical, hands-on guide!
  - [Boddington - 2016 - Practical digital forensics get started with the art and science of digital forensics with this pra.pdf, Practical digital forensics: get started with the art and science of digital forensics with this practical, hands-on guide!] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Boddington - 2016 - Practical digital forensics get started with the art and science of digital forensics with this pra.pdf]
-  - Practical mobile forensics: dive into mobile forensics on iOS, Android, Windows, and BlackBerry devices with this action-packed, practical guide
  - [Bommisetty et al. - 2014 - Practical mobile forensics dive into mobile forensics on iOS, Android, Windows, and BlackBerry devi.pdf, Practical mobile forensics: dive into mobile forensics on iOS, Android, Windows, and BlackBerry devices with this action-packed, practical guide] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Bommisetty et al. - 2014 - Practical mobile forensics dive into mobile forensics on iOS, Android, Windows, and BlackBerry devi.pdf]
-  - Professional Red Teaming: Conducting Successful Cybersecurity Engagements
  - [Oakley - 2019 - Professional Red Teaming Conducting Successful Cybersecurity Engagements.pdf, Professional Red Teaming: Conducting Successful Cybersecurity Engagements] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Oakley - 2019 - Professional Red Teaming Conducting Successful Cybersecurity Engagements.pdf]
-  - PYTHON SCAPY DOT11: programacion en python para pentesters wi-fi
  - [HANSEN - 2017 - PYTHON SCAPY DOT11 programacion en python para pentesters wi-fi.pdf, PYTHON SCAPY DOT11: programacion en python para pentesters wi-fi] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\HANSEN - 2017 - PYTHON SCAPY DOT11 programacion en python para pentesters wi-fi.pdf]
-  - Quick Start Guide to Penetration Testing: With NMAP, OpenVAS and Metasploit
  - [Rahalkar - 2019 - Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit.pdf, Quick Start Guide to Penetration Testing: With NMAP, OpenVAS and Metasploit] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Rahalkar - 2019 - Quick Start Guide to Penetration Testing With NMAP, OpenVAS and Metasploit.pdf]
-  - Automated In-memory Malware/Rootkit Detection via Binary Analysis and Machine Learning
  - [Jones - Automated In-memory MalwareRootkit Detection via Binary Analysis and Machine Learning.pdf, Automated In-memory Malware/Rootkit Detection via Binary Analysis and Machine Learning] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Jones - Automated In-memory MalwareRootkit Detection via Binary Analysis and Machine Learning.pdf]
-  - Becoming the hacker: the playbook for getting Inside the mind of the attacker
  - [Pruteanu - 2019 - Becoming the hacker the playbook for getting Inside the mind of the attacker.pdf, Becoming the hacker: the playbook for getting Inside the mind of the attacker] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Pruteanu - 2019 - Becoming the hacker the playbook for getting Inside the mind of the attacker.pdf]
-  - Digital Forensics Basics: A Practical Guide Using Windows OS
  - [Hassan - 2019 - Digital Forensics Basics A Practical Guide Using Windows OS.pdf, Digital Forensics Basics: A Practical Guide Using Windows OS] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Hassan - 2019 - Digital Forensics Basics A Practical Guide Using Windows OS.pdf]
-  - Game Hacking: Developing Autonomous Bots for Online Games
  - [Cano - Game Hacking Developing Autonomous Bots for Online Games.pdf, Game Hacking: Developing Autonomous Bots for Online Games] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Cano - Game Hacking Developing Autonomous Bots for Online Games.pdf]
-  - Google hacking for penetration testers
  - [Long et al. - 2016 - Google hacking for penetration testers.pdf, Google hacking for penetration testers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Long et al. - 2016 - Google hacking for penetration testers.pdf]
-  - Gray Hat Hacking the Ethical Hacker's Handbook (9781260108422)
  - [Regalado et al. - Gray Hat Hacking the Ethical Hacker's Handbook (9781260108422).pdf, Gray Hat Hacking the Ethical Hacker's Handbook (9781260108422)] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Regalado et al. - Gray Hat Hacking the Ethical Hacker's Handbook (9781260108422).pdf]
-  - Hacking android: explore ecery nook and cranny of the Android OS to modify your device and guard it against security threats
  - [Kotipalli and Imran - 2016 - Hacking android explore ecery nook and cranny of the Android OS to modify your device and guard it.pdf, Hacking android: explore ecery nook and cranny of the Android OS to modify your device and guard it against security threats] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Kotipalli and Imran - 2016 - Hacking android explore ecery nook and cranny of the Android OS to modify your device and guard it.pdf]
-  - Hands-on penetration testing on Windows: unleash Kali Linux, PowerShell, and Windows debugging tools for security testing and analysis
  - [Bramwell - 2018 - Hands-on penetration testing on Windows unleash Kali Linux, PowerShell, and Windows debugging tools.pdf, Hands-on penetration testing on Windows: unleash Kali Linux, PowerShell, and Windows debugging tools for security testing and analysis] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Bramwell - 2018 - Hands-on penetration testing on Windows unleash Kali Linux, PowerShell, and Windows debugging tools.pdf]
-  - Hands-on penetration testing with python: enhance your ethical hacking skills to build automated and intelligent systems
  - [Khan - 2019 - Hands-on penetration testing with python enhance your ethical hacking skills to build automated and.pdf, Hands-on penetration testing with python: enhance your ethical hacking skills to build automated and intelligent systems] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Khan - 2019 - Hands-on penetration testing with python enhance your ethical hacking skills to build automated and.pdf]
-  - Kali Linux 2018: Windows penetration testing: conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018
  - [Halton and Weaver - 2018 - Kali Linux 2018 Windows penetration testing conduct network testing, surveillance, and pen testing.pdf, Kali Linux 2018: Windows penetration testing: conduct network testing, surveillance, and pen testing on MS Windows using Kali Linux 2018] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Halton and Weaver - 2018 - Kali Linux 2018 Windows penetration testing conduct network testing, surveillance, and pen testing.pdf]
-  - Learning Python for forensics: leverage the power of Python in forensic investigations, 2nd edition
  - [Miller and Bryce - 2019 - Learning Python for forensics leverage the power of Python in forensic investigations, 2nd edition.pdf, Learning Python for forensics: leverage the power of Python in forensic investigations, 2nd edition] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\PenTest&Hack\Miller and Bryce - 2019 - Learning Python for forensics leverage the power of Python in forensic investigations, 2nd edition.pdf]
 [INFO] Total PDFs found in PenTest&Hack: 20
 
  ---------------------------------------------------------------
 [INFO] Processing collection: Security ...
-  - Network vulnerability assessment: identify security loopholes in your network's infrastructure
  - [Rahalkar - 2018 - Network vulnerability assessment identify security loopholes in your network's infrastructure.pdf, Network vulnerability assessment: identify security loopholes in your network's infrastructure] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Rahalkar - 2018 - Network vulnerability assessment identify security loopholes in your network's infrastructure.pdf]
-  - Practical Cloud Security
  - [Dotson - Practical Cloud Security.pdf, Practical Cloud Security] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Dotson - Practical Cloud Security.pdf]
-  - Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps
  - [Hsu - 2019 - Practical Security Automation and Testing Tools and techniques for automated security scanning and.pdf, Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Hsu - 2019 - Practical Security Automation and Testing Tools and techniques for automated security scanning and.pdf]
-  - Reversing: secrets of reverse engineering
  - [Eilam and Chikofsky - 2005 - Reversing secrets of reverse engineering.pdf, Reversing: secrets of reverse engineering] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Eilam and Chikofsky - 2005 - Reversing secrets of reverse engineering.pdf]
-  - The Microbial production of amino acids
  - [Yamada - 1972 - The Microbial production of amino acids.pdf, The Microbial production of amino acids] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Yamada - 1972 - The Microbial production of amino acids.pdf]
-  - The art of software security assessment: identifying and preventing software vulnerabilities
  - [Dowd et al. - 2007 - The art of software security assessment identifying and preventing software vulnerabilities.pdf, The art of software security assessment: identifying and preventing software vulnerabilities] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Dowd et al. - 2007 - The art of software security assessment identifying and preventing software vulnerabilities.pdf]
-  - Advances in Digital Forensics XIII: 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, January 30 - February 1, 2017, Revised Selected Papers
  - [Peterson and Shenoi - 2017 - Advances in Digital Forensics XIII 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, Ja.pdf, Advances in Digital Forensics XIII: 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, January 30 - February 1, 2017, Revised Selected Papers] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Peterson and Shenoi - 2017 - Advances in Digital Forensics XIII 13th IFIP WG 11.9 International Conference, Orlando, FL, USA, Ja.pdf]
-  - Advanced Apple Debugging & Reverse Engineering
  - [Selander - Advanced Apple Debugging & Reverse Engineering.pdf, Advanced Apple Debugging & Reverse Engineering] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Selander - Advanced Apple Debugging & Reverse Engineering.pdf]
-  - Bug bounty hunting essentials: quick-paced guide to help white-hat hackers get through bug bounty programs
  - [Lozano and Amir - 2018 - Bug bounty hunting essentials quick-paced guide to help white-hat hackers get through bug bounty pr.pdf, Bug bounty hunting essentials: quick-paced guide to help white-hat hackers get through bug bounty programs] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Lozano and Amir - 2018 - Bug bounty hunting essentials quick-paced guide to help white-hat hackers get through bug bounty pr.pdf]
-  - Cyber Operations: Building, Defending, and Attacking Modern Computer Networks
  - [O'Leary - 2019 - Cyber Operations Building, Defending, and Attacking Modern Computer Networks.pdf, Cyber Operations: Building, Defending, and Attacking Modern Computer Networks] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\O'Leary - 2019 - Cyber Operations Building, Defending, and Attacking Modern Computer Networks.pdf]
-  - Hands-on bug hunting for penetration testers: a practical guide to help ethical hackers discover web application security flaws
  - [Marshall - 2018 - Hands-on bug hunting for penetration testers a practical guide to help ethical hackers discover web.pdf, Hands-on bug hunting for penetration testers: a practical guide to help ethical hackers discover web application security flaws] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Marshall - 2018 - Hands-on bug hunting for penetration testers a practical guide to help ethical hackers discover web.pdf]
-  - Instant Burp Suite starter: get up and running with Burp Suite using this hands-on practical guide
  - [Carettoni - 2013 - Instant Burp Suite starter get up and running with Burp Suite using this hands-on practical guide.pdf, Instant Burp Suite starter: get up and running with Burp Suite using this hands-on practical guide] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Carettoni - 2013 - Instant Burp Suite starter get up and running with Burp Suite using this hands-on practical guide.pdf]
-  - Mastering reverse engineering: re-engineer your ethical hacking skills
  - [Wong - 2018 - Mastering reverse engineering re-engineer your ethical hacking skills.pdf, Mastering reverse engineering: re-engineer your ethical hacking skills] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Wong - 2018 - Mastering reverse engineering re-engineer your ethical hacking skills.pdf]
-  - Methods for detecting kernel rootkits.
  - [Wampler - 2007 - Methods for detecting kernel rootkits..pdf, Methods for detecting kernel rootkits.] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\Security\Wampler - 2007 - Methods for detecting kernel rootkits..pdf]
 [INFO] Total PDFs found in Security: 14
 
  ---------------------------------------------------------------
 [INFO] Processing collection: General ...
-  - Real-Time Operating Systems for Cyber-Physical Systems: Current Status and Future Research
  - [Serino and Cheng - 2020 - Real-Time Operating Systems for Cyber-Physical Systems Current Status and Future Research.pdf, Real-Time Operating Systems for Cyber-Physical Systems: Current Status and Future Research] -> [C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library\General\Serino and Cheng - 2020 - Real-Time Operating Systems for Cyber-Physical Systems Current Status and Future Research.pdf]
 [INFO] Total PDFs found in General: 1
 

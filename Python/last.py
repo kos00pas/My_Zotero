@@ -113,6 +113,10 @@ try:
             """, (item_id,))
             attachments = cursor.fetchall()
 
+            if not attachments:  # Handle cases where no metadata exists
+                print(f"[WARNING] No attachments found for item: {title}")
+                continue
+
             for attachment in attachments:
                 relative_path = attachment[0].replace("storage:", "").replace("\\", "/")
                 if relative_path.endswith(".pdf"):
