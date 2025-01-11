@@ -114,7 +114,51 @@ try:
             attachments = cursor.fetchall()
 
             if not attachments:  # Handle cases where no metadata exists
-                print(f"[WARNING] No attachments found for item: {title}")
+                print(f"[NoFound] No attachments found for item: {title}")
+
+                # Gather all available information about the item
+                cursor.execute("""
+                    SELECT items.key, itemDataValues.value, fields.fieldName
+                    FROM items
+                    LEFT JOIN itemData ON items.itemID = itemData.itemID
+                    LEFT JOIN itemDataValues ON itemData.valueID = itemDataValues.valueID
+                    LEFT JOIN fields ON itemData.fieldID = fields.fieldID
+                    WHERE items.itemID = ?
+                """, (item_id,))
+                item_data = cursor.fetchall()
+
+                # Directly retrieve key and title from the first row
+                if item_data:
+                    item_key = item_data[0][0]  # First row, first column: item_key
+                    item_title = item_data[0][1]  # First row, second column: item_title
+                else:
+                    item_key = None
+                    item_title = None
+
+                # Print debug information first
+                # print(f"here {base_storage_dir}, {item_title}, {item_key}")
+                # print(f"[DEBUG] Item data for item_id={item_id}:")
+                # for row in item_data:
+                #     print(f"  - {row}")
+
+                # Start searching for the PDF after debug information
+                if item_key and item_title:  # Ensure both key and title are available
+                    specific_dir = os.path.join(base_storage_dir, item_key)
+                    expected_pdf = f"{item_title}.pdf"
+                    specific_pdf_path = os.path.join(specific_dir, expected_pdf)
+
+                    # Print debug message showing the exact path being searched
+                    print(f"\t[Searching] for: '{specific_pdf_path}'")
+
+                    if os.path.exists(specific_pdf_path):
+                        target_path = copy_pdf_to_target(specific_pdf_path, target_dir, collection_name)
+                        print(
+                            f"\t\t[Found] Found PDF in specific directory: {specific_pdf_path} -> Copied to: {target_path}")
+                        pdf_found += 1
+                    else:
+                        print(f"\t\t[NoPDFFound]  '{expected_pdf}' in directory: {specific_dir}")
+                else:
+                    print("\t\t[Missing]  key or title; cannot search for PDF.")
                 continue
 
             for attachment in attachments:
