@@ -8,7 +8,10 @@ zotero_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive"
 # Path to the Zotero database
 original_db_path = os.path.join(zotero_dir, "zotero.sqlite")
 
-def fetch_all_folders_with_hierarchy(original_db_path, zotero_dir):
+# Target directory to create folder structure
+target_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library"
+
+def create_folder_structure(original_db_path, zotero_dir, target_dir):
     try:
         # Check if Zotero database exists
         print("[INFO] Checking if Zotero database exists...")
@@ -40,31 +43,28 @@ def fetch_all_folders_with_hierarchy(original_db_path, zotero_dir):
             collection_map[parent_id].append((collection_name, collection_id))
             id_to_name_map[collection_id] = collection_name
 
-        # Recursive function to traverse hierarchy
-        def traverse_and_collect(parent_id=None, path=""):
-            folder_list = []
+        # Recursive function to traverse hierarchy and create folders
+        def traverse_and_create_folders(parent_id=None, path=target_dir):
             subcollections = collection_map.get(parent_id, [])
             if parent_id is not None:  # Add parent folder
                 folder_name = id_to_name_map[parent_id]
                 current_path = os.path.join(path, folder_name)
-                folder_list.append(current_path)
+                # Create the folder if it doesn't exist
+                os.makedirs(current_path, exist_ok=True)
+                print(f"[INFO] Created folder: {current_path}")
             else:
                 current_path = path
 
             for sub_name, sub_id in subcollections:
-                folder_list.extend(traverse_and_collect(sub_id, current_path))
-            return folder_list
+                traverse_and_create_folders(sub_id, current_path)
 
-        # Start traversal from the top-level collections
-        all_folders = traverse_and_collect()
+        # Start traversal and folder creation from the top-level collections
+        traverse_and_create_folders()
 
-        # Output all folders
-        print("[INFO] All folders (including parent folders):")
-        for folder in all_folders:
-            print(folder)
+        print("[INFO] Folder structure created successfully!")
 
     except Exception as e:
         print(f"[ERROR] {e}")
 
 # Call the function
-fetch_all_folders_with_hierarchy(original_db_path, zotero_dir)
+create_folder_structure(original_db_path, zotero_dir, target_dir)
