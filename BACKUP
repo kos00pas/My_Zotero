@@ -1,247 +1,85 @@
-"""
-goal : automate copy to the same format
-"""
-
-import sqlite3
-import os
-import shutil
-
-import shutil
-
-def copy_pdf_to_target(pdf_path, base_target_dir, collection_name, subfolder_name="Untitled_1"):
-    """Copies the PDF to the target folder structure."""
-    target_dir = os.path.join(base_target_dir, "Lazaros", "0_in-onenote", collection_name, subfolder_name)
-    os.makedirs(target_dir, exist_ok=True)
-    target_path = os.path.join(target_dir, os.path.basename(pdf_path))
-    try:
-        shutil.copy2(pdf_path, target_path)
-        print(f"[INFO] Copied PDF to: {target_path}")
-    except Exception as e:
-        print(f"[ERROR] Could not copy PDF '{pdf_path}' to '{target_dir}': {e}")
-
-
-
-# Path to Zotero database directory
-zotero_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive"
-
-# Path to the Zotero database
-original_db_path = os.path.join(zotero_dir, "zotero.sqlite")
-
-# Function to create a copy of Zotero database
-def create_zotero_copy(original_path):
-    copy_path = os.path.join(zotero_dir, "zoteroCopy.sqlite")
-    shutil.copy2(original_path, copy_path)
-    print(f"[INFO] Created a copy of Zotero database at: {copy_path}")
-    return copy_path
-
-# Function to fetch folder and subfolder structure from SQLite
-# Function to fetch folder and subfolder structure from SQLite
-def fetch_structure_from_db(cursor):
-    print("[INFO] Fetching collections and subcollections...")
-
-    # Fetch all collections with parentCollectionID to identify the hierarchy
-    cursor.execute("SELECT collectionName, collectionID, parentCollectionID FROM collections")
-    all_collections = cursor.fetchall()
-
-    # Separate top-level collections (parentCollectionID is NULL) and subfolders
-    top_collections = [c for c in all_collections if c[2] is None]
-    subfolder_map = {}
-
-    for collection in top_collections:
-        # Fetch subfolders for each top-level collection
-        subfolders = [c[0] for c in all_collections if c[2] == collection[1]]
-        subfolder_map[collection[0]] = subfolders
-        print(f"[DEBUG] Subfolders for '{collection[0]}': {subfolders}")
-
-    # Return only top-level collections and the subfolder map
-    return top_collections, subfolder_map
-
-
-# Function to create folder structure dynamically
-def create_folder_structure_dynamic(target_dir, collections, subfolder_map):
-    print(f"[INFO] Creating folder structure in '{target_dir}'...")
-    os.makedirs(target_dir, exist_ok=True)
-
-    created_folders = set()
-
-    for collection in collections:
-        top_folder = os.path.join(target_dir, collection[0])
-
-        if collection[0] == "Lazaros":
-            if top_folder not in created_folders:
-                os.makedirs(top_folder, exist_ok=True)
-                created_folders.add(top_folder)
-                print(f"[INFO] Created folder: {top_folder}")
-
-            specific_subfolders = ["0_in-onenote", "1_in-process", "2_read", "3_done"]
-            for subfolder in specific_subfolders:
-                subfolder_path = os.path.join(top_folder, subfolder)
-                if subfolder_path not in created_folders:
-                    os.makedirs(subfolder_path, exist_ok=True)
-                    created_folders.add(subfolder_path)
-                    print(f"[INFO] Created subdirectory: {subfolder_path}")
-        else:
-            if top_folder not in created_folders:
-                os.makedirs(top_folder, exist_ok=True)
-                created_folders.add(top_folder)
-                print(f"[INFO] Created folder: {top_folder}")
-
-# Main code
-try:
-    print("[INFO] Checking if Zotero database exists...")
-    if not os.path.exists(original_db_path):
-        raise FileNotFoundError(f"[ERROR] Zotero database not found at {original_db_path}")
-
-    print("[INFO] Creating a copy of the Zotero database...")
-    db_path = create_zotero_copy(original_db_path)
-
-    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
-    cursor = conn.cursor()
-
-    print("[INFO] Fetching Zotero Library Structure...")
-    collections, subfolder_map = fetch_structure_from_db(cursor)
-
-    target_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero"
-    create_folder_structure_dynamic(target_dir, collections, subfolder_map)
-
-    conn.close()
-    print("[INFO] Folder structure creation completed successfully!")
-
-except Exception as e:
-    print(f"[ERROR] {e}")
-
-##################################################
-##################################################
-##################################################
-##################################################
-
-import sqlite3
-import os
-
-# Base storage directory for PDFs
-base_storage_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage"
-
-# Path to Zotero SQLite database
-db_path = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\zoteroCopy.sqlite"
-
-def find_pdf_in_storage(file_name):
-    """Search for the given file name in all subdirectories of the storage directory."""
-    for root, _, files in os.walk(base_storage_dir):
-        if file_name in files:
-            return os.path.join(root, file_name)
-    print("\t\tNONE NONE NONE\t")
-    return None
-
-try:
-    conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
-    cursor = conn.cursor()
-
-    print("Zotero Library Structure:")
-
-    # List to track directories with no PDFs
-    directories_without_pdfs = []
-
-    # Fetch collections
-    cursor.execute("SELECT collectionName, collectionID FROM collections")
-    collections = cursor.fetchall()
-
-    for collection in collections:
-        print(f"Folder: {collection[0]} ... includes: " )
-        pdf_found = False  # Track if PDFs are found in this directory
-
-        # Fetch items within the collection
-        cursor.execute("""
-            SELECT items.itemID, itemDataValues.value
-            FROM items
-            JOIN collectionItems ON items.itemID = collectionItems.itemID
-            JOIN itemData ON items.itemID = itemData.itemID
-            JOIN itemDataValues ON itemData.valueID = itemDataValues.valueID
-            WHERE collectionItems.collectionID = ?
-              AND itemData.fieldID = (SELECT fieldID FROM fields WHERE fieldName = 'title')
-        """, (collection[1],))
-        items = cursor.fetchall()
-
-        for item_id, title in items:
-            print(f"  - {title}")
-
-            # Fetch PDF attachments for each item
-            cursor.execute("""
-                SELECT itemAttachments.path
-                FROM itemAttachments
-                WHERE itemAttachments.parentItemID = ?
-                  AND itemAttachments.path IS NOT NULL
-            """, (item_id,))
-            attachments = cursor.fetchall()
-
-            for attachment in attachments:
-                relative_path = attachment[0].replace("storage:", "").replace("\\", "")
-                if relative_path.endswith(".pdf"):
-                    file_path = find_pdf_in_storage(relative_path)
-                    if file_path:
-                        print(f"\t    PDF: '{file_path}'")
-                        pdf_found = True
-                        # Replace base_target_dir with target_dir
-                        copy_pdf_to_target(file_path, target_dir, collection[0])
-
-                    else:
-                        print(f"[WARNING] PDF not found: {relative_path}")
-                        # Attempt to find the file in base_storage_dir
-                        actual_location = find_pdf_in_storage(relative_path.split('/')[-1])
-                        if actual_location:
-                            print(f"\t[INFO] Found actual location: {actual_location}")
-                        else:
-                            print(f"\t[ERROR] Unable to locate PDF: {relative_path}")
-
-        # If no PDFs were found for the collection, add it to the list
-        if not pdf_found:
-            directories_without_pdfs.append(collection[0])
-
-    conn.close()
-
-
-
-except Exception as e:
-    print(f"Error: {e}")
-
-
-################################
-C:\Users\kos00\anaconda3\envs\selenium_env\python.exe C:\Users\kos00\Documents\Run_programs_2\Zotero\Python\pythonProject\find_all.py
-[INFO] Checking if Zotero database exists...
-[INFO] Creating a copy of the Zotero database...
-[INFO] Created a copy of Zotero database at: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\zoteroCopy.sqlite
-[INFO] Fetching Zotero Library Structure...
-[INFO] Fetching collections and subcollections...
-[DEBUG] Subfolders for 'TechTechTech': []
-[DEBUG] Subfolders for 'SDN': []
-[DEBUG] Subfolders for 'marnerides': []
-[DEBUG] Subfolders for 'General CPS': []
-[DEBUG] Subfolders for 'Lazaros': ['3_done', '0_in-onenote', '2_read', '1_in-process']
-[INFO] Creating folder structure in 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero'...
-[INFO] Created folder: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\TechTechTech
-[INFO] Created folder: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\SDN
-[INFO] Created folder: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\marnerides
-[INFO] Created folder: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\General CPS
-[INFO] Created folder: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros
-[INFO] Created subdirectory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros\0_in-onenote
-[INFO] Created subdirectory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros\1_in-process
-[INFO] Created subdirectory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros\2_read
-[INFO] Created subdirectory: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros\3_done
-[INFO] Folder structure creation completed successfully!
-Zotero Library Structure:
-Folder: TechTechTech ... includes:
-Folder: SDN ... includes:
-Folder: marnerides ... includes:
-Folder: General CPS ... includes:
-Folder: Lazaros ... includes:
-Folder: 3_done ... includes:
-Folder: 0_in-onenote ... includes:
-Folder: 2_read ... includes:
-Folder: 1_in-process ... includes:
-Folder: Untitled ... includes:
-Folder: Untitled_2 ... includes:
-Folder: Untitled_1 ... includes:
-  - A Comprehensive Survey on the Security of Smart Grid: Challenges, Mitigations, and Future Research Opportunities
-	    PDF: 'C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage\JLTHN9QP\Zibaeirad et al. - 2024 - A Comprehensive Survey on the Security of Smart Grid Challenges, Mitigations, and Future Research O.pdf'
-[INFO] Copied PDF to: C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\Lazaros\0_in-onenote\Untitled_1\Untitled_1\Zibaeirad et al. - 2024 - A Comprehensive Survey on the Security of Smart Grid Challenges, Mitigations, and Future Research O.pdf
-
-Process finished with exit code 0
+#
+# # Base storage directory for PDFs
+# base_storage_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage"
+#
+# # Path to Zotero SQLite database
+# db_path = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\zoteroCopy.sqlite"
+#
+# def find_pdf_in_storage(file_name):
+#     """Search for the given file name in all subdirectories of the storage directory."""
+#     for root, _, files in os.walk(base_storage_dir):
+#         if file_name in files:
+#             return os.path.join(root, file_name)
+#     print("\t\tNONE NONE NONE\t")
+#     return None
+#
+# try:
+#     conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+#     cursor = conn.cursor()
+#
+#     print("Zotero Library Structure:")
+#
+#     # List to track directories with no PDFs
+#     directories_without_pdfs = []
+#
+#     # Fetch collections
+#     cursor.execute("SELECT collectionName, collectionID FROM collections")
+#     collections = cursor.fetchall()
+#
+#     for collection in collections:
+#         print(f"Folder: {collection[0]} ... includes: " )
+#         pdf_found = False  # Track if PDFs are found in this directory
+#
+#         # Fetch items within the collection
+#         cursor.execute("""
+#             SELECT items.itemID, itemDataValues.value
+#             FROM items
+#             JOIN collectionItems ON items.itemID = collectionItems.itemID
+#             JOIN itemData ON items.itemID = itemData.itemID
+#             JOIN itemDataValues ON itemData.valueID = itemDataValues.valueID
+#             WHERE collectionItems.collectionID = ?
+#               AND itemData.fieldID = (SELECT fieldID FROM fields WHERE fieldName = 'title')
+#         """, (collection[1],))
+#         items = cursor.fetchall()
+#
+#         for item_id, title in items:
+#             print(f"  - {title}")
+#
+#             # Fetch PDF attachments for each item
+#             cursor.execute("""
+#                 SELECT itemAttachments.path
+#                 FROM itemAttachments
+#                 WHERE itemAttachments.parentItemID = ?
+#                   AND itemAttachments.path IS NOT NULL
+#             """, (item_id,))
+#             attachments = cursor.fetchall()
+#
+#             for attachment in attachments:
+#                 relative_path = attachment[0].replace("storage:", "").replace("\\", "")
+#                 if relative_path.endswith(".pdf"):
+#                     file_path = find_pdf_in_storage(relative_path)
+#                     if file_path:
+#                         print(f"\t    PDF: '{file_path}'")
+#                         pdf_found = True
+#                         # Replace base_target_dir with target_dir
+#                         copy_pdf_to_target(file_path, target_dir, collection[0])
+#
+#                     else:
+#                         print(f"[WARNING] PDF not found: {relative_path}")
+#                         # Attempt to find the file in base_storage_dir
+#                         actual_location = find_pdf_in_storage(relative_path.split('/')[-1])
+#                         if actual_location:
+#                             print(f"\t[INFO] Found actual location: {actual_location}")
+#                         else:
+#                             print(f"\t[ERROR] Unable to locate PDF: {relative_path}")
+#
+#         # If no PDFs were found for the collection, add it to the list
+#         if not pdf_found:
+#             directories_without_pdfs.append(collection[0])
+#
+#     conn.close()
+#
+#
+#
+# except Exception as e:
+#     print(f"Error: {e}")
