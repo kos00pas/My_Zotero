@@ -2,13 +2,10 @@ import sqlite3
 import os
 import shutil
 
-# Path to Zotero database directory
+# Paths
 zotero_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive"
-
-# Path to the Zotero database
 original_db_path = os.path.join(zotero_dir, "zotero.sqlite")
-
-# Target directory to create folder structure
+base_storage_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\storage"
 target_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library"
 
 def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir):
@@ -74,9 +71,84 @@ def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
             print(f"[INFO] Created folder: {folder_path}")
 
         print("[INFO] Folder structure created successfully!\n")
-
+        return all_folders, conn, cursor  # Return the database connection for further use
     except Exception as e:
         print(f"[ERROR] {e}")
 
-# Call the function
-create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
+# Function to find PDFs in the Zotero storage directory
+def find_pdf_in_storage(file_name):
+    for root, _, files in os.walk(base_storage_dir):
+        if file_name in files:
+            return os.path.join(root, file_name)
+    return None
+
+# Function to copy PDFs to the appropriate target folder
+def copy_pdf_to_target(pdf_path, target_dir, collection_name):
+    target_collection_dir = os.path.join(target_dir, collection_name)
+    os.makedirs(target_collection_dir, exist_ok=True)  # Ensure the collection directory exists
+    target_pdf_path = os.path.join(target_collection_dir, os.path.basename(pdf_path))
+    shutil.copy2(pdf_path, target_pdf_path)  # Copy the PDF
+    return target_pdf_path
+
+# Call the function to create folder structure
+all_folders, conn, cursor = create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
+
+# Fetch and process PDFs for each collection
+try:
+    directories_without_pdfs = []
+
+    for folder in all_folders:
+        collection_name = os.path.basename(folder)
+        print(f"\n --------------------------------------------------------------- ")
+        print(f"[INFO] Processing collection: {collection_name} ...")
+        pdf_found = False  # Track if PDFs are found in this directory
+
+        # Fetch items within the collection
+        cursor.execute("""
+            SELECT items.itemID, itemDataValues.value
+            FROM items
+            JOIN collectionItems ON items.itemID = collectionItems.itemID
+            JOIN itemData ON items.itemID = itemData.itemID
+            JOIN itemDataValues ON itemData.valueID = itemDataValues.valueID
+            WHERE collectionItems.collectionID = (
+                SELECT collectionID FROM collections WHERE collectionName = ?
+            )
+              AND itemData.fieldID = (SELECT fieldID FROM fields WHERE fieldName = 'title')
+        """, (collection_name,))
+        items = cursor.fetchall()
+
+        for item_id, title in items:
+            # Fetch PDF attachments for each item
+            cursor.execute("""
+                SELECT itemAttachments.path
+                FROM itemAttachments
+                WHERE itemAttachments.parentItemID = ?
+                  AND itemAttachments.path IS NOT NULL
+            """, (item_id,))
+            attachments = cursor.fetchall()
+
+            for attachment in attachments:
+                relative_path = attachment[0].replace("storage:", "").replace("\\", "/")
+                if relative_path.endswith(".pdf"):
+                    file_path = find_pdf_in_storage(relative_path.split('/')[-1])
+                    if file_path:
+                        target_path = copy_pdf_to_target(file_path, target_dir, collection_name)
+                        # Updated print message
+                        print(f" - [{relative_path}, {title}] -> [{target_path}]")
+                        pdf_found = True
+                    else:
+                        print(f"[WARNING] PDF not found for item: {title} ({relative_path})")
+
+        if not pdf_found:
+            directories_without_pdfs.append(collection_name)
+
+    # Print directories without PDFs
+    if directories_without_pdfs:
+        print("\n ======================== \n[INFO] Collections with no PDFs:")
+        for collection_name in directories_without_pdfs:
+            print(f"  - {collection_name}")
+
+    conn.close()
+
+except Exception as e:
+    print(f"[ERROR] {e}")
