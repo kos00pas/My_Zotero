@@ -10,27 +10,22 @@ target_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zo
 
 def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir):
     try:
-        # Check if Zotero database exists
         print("[INFO] Checking if Zotero database exists...")
         if not os.path.exists(original_db_path):
             raise FileNotFoundError(f"[ERROR] Zotero database not found at {original_db_path}")
 
-        # Create a copy of the database
         print("[INFO] Creating a copy of the Zotero database...")
         copy_path = os.path.join(zotero_dir, "zoteroCopy.sqlite")
         shutil.copy2(original_db_path, copy_path)
         print(f"[INFO] Created a copy of Zotero database at: {copy_path}")
 
-        # Connect to the copied database
         conn = sqlite3.connect(f"file:{copy_path}?mode=ro", uri=True)
         cursor = conn.cursor()
 
-        # Fetch collections and build hierarchy
         print("[INFO] Fetching collections and subcollections...")
         cursor.execute("SELECT collectionName, collectionID, parentCollectionID FROM collections")
         all_collections = cursor.fetchall()
 
-        # Build mappings
         collection_map = {}
         id_to_name_map = {}
         for collection in all_collections:
@@ -40,7 +35,6 @@ def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
             collection_map[parent_id].append((collection_name, collection_id))
             id_to_name_map[collection_id] = collection_name
 
-        # Recursive function to traverse hierarchy and collect folders
         def traverse_and_collect_folders(parent_id=None, path=""):
             folder_list = []
             subcollections = collection_map.get(parent_id, [])
@@ -55,15 +49,12 @@ def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
                 folder_list.extend(traverse_and_collect_folders(sub_id, current_path))
             return folder_list
 
-        # Start traversal and collect folder paths
         all_folders = traverse_and_collect_folders()
 
-        # Print all folders
         print("[INFO] All folders (including parent folders):")
         for folder in all_folders:
             print(folder)
 
-        # Create folders on the filesystem
         print("\n[INFO] Creating folders in the target directory...")
         for folder in all_folders:
             folder_path = os.path.join(target_dir, folder)
@@ -71,29 +62,26 @@ def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
             print(f"[INFO] Created folder: {folder_path}")
 
         print("[INFO] Folder structure created successfully!\n")
-        return all_folders, conn, cursor  # Return the database connection for further use
+        return all_folders, conn, cursor
     except Exception as e:
         print(f"[ERROR] {e}")
 
-# Function to find PDFs in the Zotero storage directory
 def find_pdf_in_storage(file_name):
     for root, _, files in os.walk(base_storage_dir):
         if file_name in files:
             return os.path.join(root, file_name)
     return None
 
-# Function to copy PDFs to the appropriate target folder
 def copy_pdf_to_target(pdf_path, target_dir, collection_name):
     target_collection_dir = os.path.join(target_dir, collection_name)
-    os.makedirs(target_collection_dir, exist_ok=True)  # Ensure the collection directory exists
+    os.makedirs(target_collection_dir, exist_ok=True)
     target_pdf_path = os.path.join(target_collection_dir, os.path.basename(pdf_path))
-    shutil.copy2(pdf_path, target_pdf_path)  # Copy the PDF
+    shutil.copy2(pdf_path, target_pdf_path)
     return target_pdf_path
 
 # Call the function to create folder structure
 all_folders, conn, cursor = create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
 
-# Fetch and process PDFs for each collection
 try:
     directories_without_pdfs = []
 
@@ -101,9 +89,8 @@ try:
         collection_name = os.path.basename(folder)
         print(f"\n --------------------------------------------------------------- ")
         print(f"[INFO] Processing collection: {collection_name} ...")
-        pdf_found = False  # Track if PDFs are found in this directory
+        pdf_found = 0  # Counter for PDFs found
 
-        # Fetch items within the collection
         cursor.execute("""
             SELECT items.itemID, itemDataValues.value
             FROM items
@@ -118,7 +105,6 @@ try:
         items = cursor.fetchall()
 
         for item_id, title in items:
-            # Fetch PDF attachments for each item
             cursor.execute("""
                 SELECT itemAttachments.path
                 FROM itemAttachments
@@ -133,18 +119,18 @@ try:
                     file_path = find_pdf_in_storage(relative_path.split('/')[-1])
                     if file_path:
                         target_path = copy_pdf_to_target(file_path, target_dir, collection_name)
-                        # Updated print message
                         print(f" - [{relative_path}, {title}] -> [{target_path}]")
-                        pdf_found = True
+                        pdf_found += 1
                     else:
                         print(f"[WARNING] PDF not found for item: {title} ({relative_path})")
 
-        if not pdf_found:
+        if pdf_found == 0:
             directories_without_pdfs.append(collection_name)
+        else:
+            print(f"[INFO] Total PDFs found in {collection_name}: {pdf_found}")
 
-    # Print directories without PDFs
     if directories_without_pdfs:
-        print("\n ======================== \n[INFO] Collections with no PDFs:")
+        print("\n[INFO] Collections with no PDFs:")
         for collection_name in directories_without_pdfs:
             print(f"  - {collection_name}")
 
