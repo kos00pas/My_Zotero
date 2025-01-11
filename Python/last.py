@@ -11,7 +11,7 @@ original_db_path = os.path.join(zotero_dir, "zotero.sqlite")
 # Target directory to create folder structure
 target_dir = r"C:\Users\kos00\OneDrive - University of Cyprus\Zeroto_Drive\My_Zotero\My_Library"
 
-def create_folder_structure(original_db_path, zotero_dir, target_dir):
+def create_folder_structure_with_print(original_db_path, zotero_dir, target_dir):
     try:
         # Check if Zotero database exists
         print("[INFO] Checking if Zotero database exists...")
@@ -43,28 +43,40 @@ def create_folder_structure(original_db_path, zotero_dir, target_dir):
             collection_map[parent_id].append((collection_name, collection_id))
             id_to_name_map[collection_id] = collection_name
 
-        # Recursive function to traverse hierarchy and create folders
-        def traverse_and_create_folders(parent_id=None, path=target_dir):
+        # Recursive function to traverse hierarchy and collect folders
+        def traverse_and_collect_folders(parent_id=None, path=""):
+            folder_list = []
             subcollections = collection_map.get(parent_id, [])
             if parent_id is not None:  # Add parent folder
                 folder_name = id_to_name_map[parent_id]
                 current_path = os.path.join(path, folder_name)
-                # Create the folder if it doesn't exist
-                os.makedirs(current_path, exist_ok=True)
-                print(f"[INFO] Created folder: {current_path}")
+                folder_list.append(current_path)
             else:
                 current_path = path
 
             for sub_name, sub_id in subcollections:
-                traverse_and_create_folders(sub_id, current_path)
+                folder_list.extend(traverse_and_collect_folders(sub_id, current_path))
+            return folder_list
 
-        # Start traversal and folder creation from the top-level collections
-        traverse_and_create_folders()
+        # Start traversal and collect folder paths
+        all_folders = traverse_and_collect_folders()
 
-        print("[INFO] Folder structure created successfully!")
+        # Print all folders
+        print("[INFO] All folders (including parent folders):")
+        for folder in all_folders:
+            print(folder)
+
+        # Create folders on the filesystem
+        print("\n[INFO] Creating folders in the target directory...")
+        for folder in all_folders:
+            folder_path = os.path.join(target_dir, folder)
+            os.makedirs(folder_path, exist_ok=True)
+            print(f"[INFO] Created folder: {folder_path}")
+
+        print("[INFO] Folder structure created successfully!\n")
 
     except Exception as e:
         print(f"[ERROR] {e}")
 
 # Call the function
-create_folder_structure(original_db_path, zotero_dir, target_dir)
+create_folder_structure_with_print(original_db_path, zotero_dir, target_dir)
